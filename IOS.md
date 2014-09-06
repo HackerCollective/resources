@@ -2,11 +2,11 @@ Getting Started with IOS
 =========================
 **What is iOS?** _iOS is the world's most advanced mobile operating system, continually redefining what people can do with a mobile device. Together, the iOS SDK and Xcode IDE make it easy for developers to create revolutionary mobile apps._ - Apple
 
-1. Xcode is the tool we use to develop apps. They are written in Objective-C and recently a new language introduced back in June called Swift. [Link](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
+1. Xcode is the tool we use to develop apps. They are written in Objective-C and recently a new language introduced back in June called [Swift.](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
 2. Sketch is a mockup tool that I and many startups like Foursquare and Medium use. It's really easy to get started and it has a ton of inbuilt tools for mocking up your apps. [Link](https://itunes.apple.com/us/app/sketch-3/id852320343?mt=12)
 
-3. If you want to go from an idea in your head to getting an app on the app store, this book: Beginning iOS 7 Development: Exploring the iOS SDK is one of the best things out there. It will run you through the process of getting your app into people's hands. [Link](http://www.amazon.com/Beginning-iOS-Development-Exploring-SDK/dp/143026022X/ref=sr_1_4?ie=UTF8&qid=undefined&sr=8-4&keywords=iOS+development)
+3. If you want to go from an idea in your head to getting an app on the app store, this book: [Beginning iOS 7 Development: Exploring the iOS SDK](http://www.amazon.com/Beginning-iOS-Development-Exploring-SDK/dp/143026022X/ref=sr_1_4?ie=UTF8&qid=undefined&sr=8-4&keywords=iOS+development) is one of the best things out there. It will run you through the process of getting your app into people's hands. 
 
 4. A great online tutorial for free (usually 500$) is being provided by BitFountain, using this [Link](http://bitfountain.io/course/the-complete-ios-7-course-learn-by-building-14-apps/?couponCode=COUPON111677) , they also have an iOS 8 course.
 

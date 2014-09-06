@@ -15,7 +15,8 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
     3. Databases
     4. Security
 6. Scholarships
-7. Startups
+7. Bussiness Dev 
+    1. Startups
 
 Feel free to open up issues, send pull request, etc.
 
