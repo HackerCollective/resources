@@ -17,5 +17,14 @@ Getting Started with IOS
 
 8. If you need a backend for your app but don't have experience, a tool called [parse](https://www.parse.com) allows you to easily integrate a backend with your app so you can focus on the client-side. It handles login, signup and data storage. It's pretty awesome.
 
+
+### Awesome Github Examples
+1. [Learning iOS development by creating 100 apps in 100 days.](https://github.com/grant/100-Apps): Grant Timmerman
+2. [Code for the Swift Tutorial on jamesonquave.com](https://github.com/grant/Swift-Tutorial): Grant Timmerman
+
+#### Online Resources 
+1. [Code School]
+2. [Team Treehouse]
+
 Contributors: [Kyle Ryan](https://github.com/kylry), [David Coven](http://github.com/mrcoven94)
 
