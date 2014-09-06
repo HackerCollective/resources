@@ -15,6 +15,12 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
     3. Databases
     4. Security
 6. Scholarships
+    1. College (Undergrad & Graduate) Vs. High School
+    2. Merit
+    3. Financial Need
+    4. University Based (Institutional)
+    5. Athletic
+    
 7. Bussiness Dev 
     1. Startups
 
