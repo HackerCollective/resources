@@ -23,8 +23,8 @@ Getting Started with IOS
 2. [Code for the Swift Tutorial on jamesonquave.com](https://github.com/grant/Swift-Tutorial): Grant Timmerman
 
 #### Online Resources 
-1. [Code School]
-2. [Team Treehouse]
+1. [Code School](https://www.codeschool.com/paths/ios)
+2. [Team Treehouse](http://teamtreehouse.com/tracks/ios-development)
 
 Contributors: [Kyle Ryan](https://github.com/kylry), [David Coven](http://github.com/mrcoven94)
 
