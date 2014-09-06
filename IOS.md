@@ -19,8 +19,11 @@ Getting Started with IOS
 
 
 ### Awesome Github Examples
-1. [Learning iOS development by creating 100 apps in 100 days.](https://github.com/grant/100-Apps): Grant Timmerman
+1. [Learning iOS development by creating 100 apps in 100 days](https://github.com/grant/100-Apps): Grant Timmerman
 2. [Code for the Swift Tutorial on jamesonquave.com](https://github.com/grant/Swift-Tutorial): Grant Timmerman
+3. [Swift implementation of flappy bird. ](https://github.com/fullstackio/FlappySwift): FullStackio
+4. [OpenStack Object Storage (Swift)](https://github.com/openstack/swift): OpenStack
+
 
 #### Online Resources 
 1. [Code School](https://www.codeschool.com/paths/ios)
