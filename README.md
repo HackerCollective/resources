@@ -15,8 +15,9 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
     3. Databases
     4. Security
 6. Scholarships
+7. Startups
 
 Feel free to open up issues, send pull request, etc.
 
 
-Inspired by [Jennifer Apacible - Res](https://github.com/japacible/res)
+Inspired by [Jennifer Apacible - Res](https://github.com/japacible/res), the original gangsta. 

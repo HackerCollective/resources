@@ -1,5 +1,6 @@
 Getting Started with IOS
 =========================
+**What is iOS?** _iOS is the world's most advanced mobile operating system, continually redefining what people can do with a mobile device. Together, the iOS SDK and Xcode IDE make it easy for developers to create revolutionary mobile apps._ - Apple
 
 1. Xcode is the tool we use to develop apps. They are written in Objective-C and recently a new language introduced back in June called Swift. [Link](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
