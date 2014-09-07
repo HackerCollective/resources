@@ -69,7 +69,7 @@ Tutorials / Guides
 
 ### Getting Your Website Online
 ##### Domain Name Registration: + Hosting 
-1. [NameCheap](http://www.namecheap.com/)
+1. [NameCheap](http://www.namecheap.com/), they are the best to our hackers! :)
 2. [Go Daddy](http://www.godaddy.com/)
 3. [Blue Host](http://www.bluehost.com/)
 4. [Award Space](http://www.awardspace.com/)
@@ -77,14 +77,22 @@ Tutorials / Guides
 6. [Just Host](http://www.justhost.com/) 
 
 
-##### Hosting + Open Source Communities
-1. GitHub | https://github.com/ (This is what I use, and I’m cool + it’s free)
-2. BitBucket | https://bitbucket.org/ (free)
+##### Hosting + Open Source Communities 
+1. [GitHub](https://github.com/) This is what I use, and I’m cool + it’s free
+2. [BitBucket](https://bitbucket.org/) 
 
-#### FTP
-1. CyberDuck
-2. Firezilla
+#### FTP 
+1. [CyberDuck]()
+2. [Firezilla]()
 
+#### Using GitHub
+1. [Read This Article First (Programming Way of Setting Up Your Site, using Git)](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-2. beginners-part-1#awesm=~ozMC4gq6eTfUby)
+3. [Hosting Personal]()
+4. [Hosting Multiple Project Sites Tutorials: Video](http://www.youtube.com/watch?v=J8RLq9LXFXk)
+5. [Github markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+6. [Github Markdown #2](http://assemble.io/docs/Cheatsheet-Markdown.html)
+
+#### Learning Git
 
 ### Getting The Job
 1. [Amazing list of Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
