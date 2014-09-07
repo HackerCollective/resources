@@ -15,6 +15,7 @@ Web Development, "is a mix of programming and layout that powers the visuals and
   1. [Resources For Learning](#resources4learn)
   1. [Getting your website online](#online)
   1. [Using Github](#github)
+    1. [Learning Git](#git)
   1. [Getting The Job](#job)
 
 ####[[⬆]](#toc)
@@ -149,7 +150,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 5. [Github markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 6. [Github Markdown #2](http://assemble.io/docs/Cheatsheet-Markdown.html)
 
-#### Learning Git
+#### [[⬆]](#toc) <a name='git'> Learning Git :</a>
 
 ### [[⬆]](#toc) <a name='job'>Getting The Job:</a>
 1. [Amazing list of Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
