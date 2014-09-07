@@ -6,15 +6,16 @@ Web Development, "is a mix of programming and layout that powers the visuals and
 
 ## <a name='toc'>Table of Contents</a>
 
-  1. [Original Contributors](#contributors)
-  1. [General Questions](#general)
-  1. [HTML Questions](#html)
-  1. [CSS Questions](#css)
-  1. [JS Questions](#js)
-  1. [jQuery Questions](#jquery)
-  1. [Coding Questions](#jscode)
-  1. [Fun Questions](#fun)
-  1. [Other Great References](#references)
+  1. [HTML](#html)
+  1. [CSS ](#css)
+  1. [Javascript ](#js)
+  1. [Design ](#design)
+  1. [Unit Testing ](#ut)
+  1. [Frontend Build Tools](#fbt)
+  1. [Resources For Learning](#resources4learn)
+  1. [Getting your website online](#online)
+  1. [Using Github](#github)
+  1. [Getting The Job](#job)
 
 ####[[⬆]](#toc)
 
@@ -42,7 +43,7 @@ Web Development, "is a mix of programming and layout that powers the visuals and
 Tutorials / Guides
 
 
-### CSS 
+### [[⬆]](#toc) <a name='css'>CSS:</a>
 CSS, can be thought of as the skin, the appearance, the beauty of your webpage. Its where the design comes in, and where your UI/UX comes into play. 
 
 1. Precompilers
@@ -57,7 +58,7 @@ CSS, can be thought of as the skin, the appearance, the beauty of your webpage. 
     5. [Pure](http://purecss.io/)
     6. [Odometer](http://github.hubspot.com/odometer/docs/welcome/) (JS + CSS)
 
-### Javascript
+### [[⬆]](#toc) <a name='js'>Javascript:</a>
 JavaScript provides interaction, functionality, and dynamic ability of your site/app. 
  
 1. MV* Javascript 
@@ -81,7 +82,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
     7. [cheet.js](http://namuol.github.io/cheet.js/) 
     8. [Headroom.js](http://wicky.nillia.ms/headroom.js/) 
     
-### Design
+### [[⬆]](#toc) <a name='design'>Design:</a>
 1. [Dribbble](https://dribbble.com/)
 2. [0to255](http://0to255.com/)
 3. [CSSFlow](http://www.cssflow.com/)
@@ -96,7 +97,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 12. [Ionicons](http://ionicons.com/)
 13. [Canva](https://www.canva.com/)
 
-### Unit Testing
+### [[⬆]](#toc) <a name='ut'>Unit Testing:</a>
 1. [Jasmine](http://jasmine.github.io/)
 2. [Karma](http://karma-runner.github.io/0.12/index.html)
 3. [Mocha](http://visionmedia.github.io/mocha/)
@@ -106,7 +107,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 7. [Sinon](http://sinonjs.org/)
 8. [Coveralls](https://coveralls.io/)
 
-### Front End Build Tools
+### [[⬆]](#toc) <a name='fbt'> Frontend Build Tools:</a>
 1. Bower/Package management
 2. Yeoman.io
 3. Grunt
@@ -114,7 +115,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 5. Browserify
 6. Require.js/AMD
 
-### Great Resources For Learning
+### [[⬆]](#toc) <a name='resource4learn'> Great Resources For Learning :</a>
 1. [Code Academy](http://www.codecademy.com/) | This is a great FREE resource for alot of the web dev. languages both frontend and backend, and what I found super helpful! 
 2. [Dash](https://dash.generalassemb.ly/) | This is a great FREE resource for HTML, CSS, JS.
 3. [Code School](https://www.codeschool.com/) | Only has some free resources, but the free ones are pretty nice
@@ -124,7 +125,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 7. [Stack Overflow](http://stackoverflow.com/)
 8. [HTML5 and CSS3 For Dummies by Andy Harris:](http://www.amazon.com/HTML5-CSS3-All-One-Dummies/dp/1118289382)
 
-### Getting Your Website Online
+### [[⬆]](#toc) <a name='online'> Getting Your Website Online:</a>
 ##### Domain Name Registration: + Hosting 
 1. [NameCheap](http://www.namecheap.com/), they are the best to our hackers! :)
 2. [Go Daddy](http://www.godaddy.com/)
@@ -133,8 +134,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 5. [HostGator](http://www.hostgator.com/)
 6. [Just Host](http://www.justhost.com/) 
 
-
-##### Hosting + Open Source Communities 
+####### Hosting + Open Source Communities 
 1. [GitHub](https://github.com/) This is what I use, and I’m cool + it’s free
 2. [BitBucket](https://bitbucket.org/) 
 
@@ -142,7 +142,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 1. [CyberDuck]()
 2. [Firezilla]()
 
-#### Using GitHub
+### [[⬆]](#toc) <a name='github'> Using Github:</a>
 1. [Read This Article First (Programming Way of Setting Up Your Site, using Git)](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-2. beginners-part-1#awesm=~ozMC4gq6eTfUby)
 3. [Hosting Personal]()
 4. [Hosting Multiple Project Sites Tutorials: Video](http://www.youtube.com/watch?v=J8RLq9LXFXk)
@@ -151,7 +151,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 
 #### Learning Git
 
-### Getting The Job
+### [[⬆]](#toc) <a name='job'>Getting The Job:</a>
 1. [Amazing list of Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
 
 Contributors: [Amit Burstein](https://github.com/amitburst), [David Coven](https://github.com/mrcoven94)
