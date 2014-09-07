@@ -19,25 +19,18 @@ Web Development, "is a mix of programming and layout that powers the visuals and
     
 ---
 
+## The Break Down
 ### HTML
-HTML, is essentially the skeleton of your webpage, it is what builds the structure of your site / app.
+ HTML, is essentially the skeleton of your webpage, it is what builds the structure of your site / app.
+Tutorials / Guides
 
-1. Tutorials / Guides
-    1. Online
-        1. [Code Academy](http://www.codecademy.com/) | This is a great FREE resource for alot of the web dev. languages both frontend and backend, and what I found super helpful! 
-        2. [Dash](https://dash.generalassemb.ly/) | This is a great FREE resource for HTML, CSS, JS.
-        3. [Code School](https://www.codeschool.com/) | Only has some free resources, but the free ones are pretty nice
-        4. [Tinkernut HTML](http://www.youtube.com/watch?v=6Ct6emxVR9w ) | Youtube guide for a very nitty gritty website, very easy to follow, and very light
-    2. Books
-    3. Articles
 
 ### CSS 
-1. yo 
-2. Precompilers
+1. Precompilers
     1. SaaS
     2. Less
     3. Stylus
-3. Frameworks
+2. Frameworks
     1. Bootstrap
     2. Foundation
 
@@ -64,6 +57,33 @@ HTML, is essentially the skeleton of your webpage, it is what builds the structu
 5. Browserify
 6. Require.js/AMD
 
+### Great Resources For Learning
+1. [Code Academy](http://www.codecademy.com/) | This is a great FREE resource for alot of the web dev. languages both frontend and backend, and what I found super helpful! 
+2. [Dash](https://dash.generalassemb.ly/) | This is a great FREE resource for HTML, CSS, JS.
+3. [Code School](https://www.codeschool.com/) | Only has some free resources, but the free ones are pretty nice
+4. [Tinkernut Web Dev](http://www.youtube.com/watch?v=6Ct6emxVR9w ) | Youtube guide for a very nitty gritty website, very easy to follow, and very light
+5. [UW CSE 154 (Web Programming Step By Step)]()
+6. [Tut+](http://tutsplus.com/)
+7. [Stack Overflow](http://stackoverflow.com/)
+8. [HTML5 and CSS3 For Dummies by Andy Harris:](http://www.amazon.com/HTML5-CSS3-All-One-Dummies/dp/1118289382)
+
+### Getting Your Website Online
+##### Domain Name Registration: + Hosting 
+1. [NameCheap](http://www.namecheap.com/)
+2. [Go Daddy](http://www.godaddy.com/)
+3. [Blue Host](http://www.bluehost.com/)
+4. [Award Space](http://www.awardspace.com/)
+5. [HostGator](http://www.hostgator.com/)
+6. [Just Host](http://www.justhost.com/) 
+
+
+##### Hosting + Open Source Communities
+1. GitHub | https://github.com/ (This is what I use, and I’m cool + it’s free)
+2. BitBucket | https://bitbucket.org/ (free)
+
+#### FTP
+1. CyberDuck
+2. Firezilla
 
 
 ### Getting The Job
