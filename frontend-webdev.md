@@ -4,6 +4,20 @@ Frontend Web Dev Resources
 ## Intro
 Web Development, "is a mix of programming and layout that powers the visuals and interactions of the web."--[Nick Schaden](https://blog.generalassemb.ly/what-is-front-end-web-development/)
 
+## <a name='toc'>Table of Contents</a>
+
+  1. [Original Contributors](#contributors)
+  1. [General Questions](#general)
+  1. [HTML Questions](#html)
+  1. [CSS Questions](#css)
+  1. [JS Questions](#js)
+  1. [jQuery Questions](#jquery)
+  1. [Coding Questions](#jscode)
+  1. [Fun Questions](#fun)
+  1. [Other Great References](#references)
+
+####[[⬆]](#toc)
+
 [Code Database](https://docs.google.com/spreadsheet/ccc?key=0Au-8f__TLXEddGlHSFFhZG1TcnIwaFdxZVVVcXhxN3c&usp=sharing): Used to reference different things you can implement in your code, so that you don’t have to google how to do everything. (Please feel free to edit, revise, and add as well)
 
 
@@ -23,7 +37,7 @@ Web Development, "is a mix of programming and layout that powers the visuals and
 
 
 ## The Break Down
-### HTML
+### [[⬆]](#toc) <a name='html'>HTML:</a>
  HTML, is essentially the skeleton of your webpage, it is what builds the structure of your site / app.
 Tutorials / Guides
 
