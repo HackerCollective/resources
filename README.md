@@ -24,7 +24,8 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
     5. Athletic
 8. Social Innovation
 9. Bussiness Dev 
-    1. Startups
+    1. Entrepreneurship
+    2. Startups
     
     
 
