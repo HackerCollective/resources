@@ -7,21 +7,26 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 1. College Lyfe
     1. Study Abroad
 2. Conferences / Hackathons (maybe I'll split them up)
-3. Internships
-4. IOS Development
-5. Web Development 
+3. Finance
+    1. Trading / Investing
+4. Internships
+5. IOS Development
+6. Web Development 
     1. Front End
     2. Back End
     3. Databases
     4. Security
-6. Scholarships
+7. Scholarships
     1. College (Undergrad & Graduate) Vs. High School
     2. Merit
     3. Financial Need
     4. University Based (Institutional)
     5. Athletic
-7. Bussiness Dev 
+8. Social Innovation
+9. Bussiness Dev 
     1. Startups
+    
+    
 
 Feel free to open up issues, send pull request, etc.
 
