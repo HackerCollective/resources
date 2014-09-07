@@ -155,4 +155,4 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 ### [[⬆]](#toc) <a name='job'>Getting The Job:</a>
 1. [Amazing list of Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
 
-Contributors: [Amit Burstein](https://github.com/amitburst), [David Coven](https://github.com/mrcoven94)
+Contributors: [Amit Burstein](https://github.com/amitburst), [Frank Cash](https://github.com/frankcash),  [David Coven](https://github.com/mrcoven94)
