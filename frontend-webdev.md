@@ -36,8 +36,8 @@ CSS, can be thought of as the skin, the appearance, the beauty of your webpage. 
     2. [Less](http://lesscss.org/) 
     3. [Stylus](http://learnboost.github.io/stylus/)
 2. Frameworks
-    1. [Bootstrap]()
-    2. [Foundation]()
+    1. [Bootstrap](http://getbootstrap.com/)
+    2. [Foundation](http://foundation.zurb.com/)
     3. [Animate.css](https://github.com/daneden/animate.css) 
     4. [Typeplate](http://typeplate.com/) 
     5. [Pure](http://purecss.io/)
@@ -56,7 +56,8 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
     7. [Backbone.js](http://backbonejs.org/)
     8. [UI-Lang](http://uilang.com/)
     9. [Famous](https://famo.us/), native mobile feel with the power of js. #TheJQueryKiller
-2. Frameworks
+    10. [React](http://facebook.github.io/react/)
+2. Gen Frameworks
     1. [Unheap](http://www.unheap.com/)
     2. [Transit](http://ricostacruz.com/jquery.transit/) (JS + jQuery)
     3. [Mousetrap](http://craig.is/killing/mice) 
@@ -79,10 +80,17 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 10. [Font Awesome](http://fortawesome.github.io/Font-Awesome/#)
 11. [Fontello](http://fontello.com/)
 12. [Ionicons](http://ionicons.com/)
+13. [Canva](https://www.canva.com/)
 
 ### Unit Testing
-1. Jasmine
-2. Karma
+1. [Jasmine](http://jasmine.github.io/)
+2. [Karma](http://karma-runner.github.io/0.12/index.html)
+3. [Mocha](http://visionmedia.github.io/mocha/)
+4. [Chai](http://chaijs.com/)
+5. [PhantomJS](http://phantomjs.org/)
+6. [QUnit](http://qunitjs.com/)
+7. [Sinon](http://sinonjs.org/)
+8. [Coveralls](https://coveralls.io/)
 
 ### Front End Build Tools
 1. Bower/Package management
