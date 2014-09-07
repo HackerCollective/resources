@@ -65,13 +65,13 @@ CSS, can be thought of as the skin, the appearance, the beauty of your webpage. 
 JavaScript provides interaction, functionality, and dynamic ability of your site/app. 
  
 1. MV* Javascript 
-    1. [Knockout.js](http://knockoutjs.com/)
-    2. [Angular.js](https://angularjs.org/)
-    3. [Meteor.js](https://www.meteor.com/)
-    4. [Passport.js](http://passportjs.org/)
-    5. [Ember.js](http://emberjs.com/)
-    6. [Ampersand.js](http://ampersandjs.com/), A highly modular, loosely coupled, non-frameworky framework for building advanced JavaScript apps.
-    7. [Backbone.js](http://backbonejs.org/)
+    1. [Knockout.js](http://knockoutjs.com/) | Knockout is a JavaScript library that helps you to create rich, responsive display and editor user interfaces with a clean underlying data model.  (e.g., changing depending on the user’s actions or when an external data source changes)
+    2. [Angular.js](https://angularjs.org/) | AngularJS is a toolset for building the framework most suited to your application development. It is fully extensible and works well with other libraries. 
+    3. [Meteor.js](https://www.meteor.com/) | Meteor is an open-source JavaScript platform for building top-quality web apps in a fraction of the time.
+    4. [Passport.js](http://passportjs.org/) | Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. 
+    5. [Ember.js](http://emberjs.com/) | Ember.js is an open-source client-side JavaScript web application framework based on the model-view-controller (MVC) software architectural pattern. It allows developers to create scalable single-page applications[1] by incorporating common idioms and best practices into a framework that provides a rich object model, declarative two-way data binding, computed properties, automatically-updating templates powered by Handlebars.js, and a router for managing application state.[
+    6. [Ampersand.js](http://ampersandjs.com/) | A highly modular, loosely coupled, non-frameworky framework for building advanced JavaScript apps.
+    7. [Backbone.js](http://backbonejs.org/) | Backbone.js is a JavaScript library with a RESTful JSON interface and is based on the model–view–presenter (MVP) application design paradigm. Backbone is known for being lightweight, as its only dependency is on one JavaScript library. 
     8. [UI-Lang](http://uilang.com/)
     9. [Famous](https://famo.us/), native mobile feel with the power of js. #TheJQueryKiller
     10. [React](http://facebook.github.io/react/)
