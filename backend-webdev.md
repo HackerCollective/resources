@@ -5,11 +5,19 @@ Backend Web Dev Resources
 ## Languages
 1. Unit/Functional Testing for Chosen Technology
 2. .net(C#)
-3. Python/Django
+3. Python
+    1. [Django](https://www.djangoproject.com/)
+    2. [Flask](http://flask.pocoo.org/)
+    3. [Pyramid](http://www.pylonsproject.org/)
 4. PHP
+    1. [Larval](http://laravel.com/)
 5. Node.js (Javascript / Express.js)
-    1. sailsjs
+    1. [sailsjs](http://sailsjs.org/#/)
+    2. [mean.io](http://mean.io/#!/)
+    3. [passportjs](http://passportjs.org/)
 6. Ruby on Rails
+7. Java
+    1. [Spring Framework](http://projects.spring.io/spring-framework/)
 
 ## Databases
 1. MySQL
@@ -20,7 +28,7 @@ Backend Web Dev Resources
     2. Memcached
     3. Nginx
     4. Varnish
-    
+
 ## Things To Learn
 1. API’s / RESTful Services
 2. Security
