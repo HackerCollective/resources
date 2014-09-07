@@ -29,6 +29,7 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
     
 
 Feel free to open up issues, send pull request, etc.
+
 License: [MIT License](https://github.com/mrcoven94/resources/blob/gh-pages/LICENSE.md)
 
 Inspired by [Jennifer Apacible - Res](https://github.com/japacible/res), the original gangsta. 
