@@ -9,6 +9,7 @@ Backend Web Dev Resources
     1. [Django](https://www.djangoproject.com/)
     2. [Flask](http://flask.pocoo.org/)
     3. [Pyramid](http://www.pylonsproject.org/)
+    4. [CherryPy](cherrypy.org)
 4. PHP
     1. [Larval](http://laravel.com/)
 5. Node.js (Javascript / Express.js)
