@@ -19,6 +19,9 @@ Web Development, "is a mix of programming and layout that powers the visuals and
     
 ---
 
+
+
+
 ## The Break Down
 ### HTML
  HTML, is essentially the skeleton of your webpage, it is what builds the structure of your site / app.
@@ -26,24 +29,56 @@ Tutorials / Guides
 
 
 ### CSS 
+CSS, can be thought of as the skin, the appearance, the beauty of your webpage. Its where the design comes in, and where your UI/UX comes into play. 
+
 1. Precompilers
-    1. SaaS
-    2. Less
-    3. Stylus
+    1. [Sass](http://sass-lang.com/) 
+    2. [Less](http://lesscss.org/) 
+    3. [Stylus](http://learnboost.github.io/stylus/)
 2. Frameworks
-    1. Bootstrap
-    2. Foundation
+    1. [Bootstrap]()
+    2. [Foundation]()
+    3. [Animate.css](https://github.com/daneden/animate.css) 
+    4. [Typeplate](http://typeplate.com/) 
+    5. [Pure](http://purecss.io/)
+    6. [Odometer](http://github.hubspot.com/odometer/docs/welcome/) (JS + CSS)
 
-### MV* Javascript 
-1. KnockoutJs
-2. AngularJs
-3. MeteorJs
-4. PassportJs
-5. EmberJs
-6. AmpersandJs
-7. BackboneJs
-8. UI-Lang
-
+### Javascript
+JavaScript provides interaction, functionality, and dynamic ability of your site/app. 
+ 
+1. MV* Javascript 
+    1. [Knockout.js](http://knockoutjs.com/)
+    2. [Angular.js](https://angularjs.org/)
+    3. [Meteor.js](https://www.meteor.com/)
+    4. [Passport.js](http://passportjs.org/)
+    5. [Ember.js](http://emberjs.com/)
+    6. [Ampersand.js](http://ampersandjs.com/), A highly modular, loosely coupled, non-frameworky framework for building advanced JavaScript apps.
+    7. [Backbone.js](http://backbonejs.org/)
+    8. [UI-Lang](http://uilang.com/)
+    9. [Famous](https://famo.us/), native mobile feel with the power of js. #TheJQueryKiller
+2. Frameworks
+    1. [Unheap](http://www.unheap.com/)
+    2. [Transit](http://ricostacruz.com/jquery.transit/) (JS + jQuery)
+    3. [Mousetrap](http://craig.is/killing/mice) 
+    4. [Coffin](http://fat.github.io/coffin/) 
+    5. [Two.js](http://jonobr1.github.io/two.js/) 
+    6. [Odometer](http://github.hubspot.com/odometer/docs/welcome/) (JS + CSS)
+    7. [cheet.js](http://namuol.github.io/cheet.js/) 
+    8. [Headroom.js](http://wicky.nillia.ms/headroom.js/) 
+    
+### Design
+1. [Dribbble](https://dribbble.com/)
+2. [0to255](http://0to255.com/)
+3. [CSSFlow](http://www.cssflow.com/)
+4. [Subtle Patterns](http://subtlepatterns.com/)
+5. [Beautiful web type](http://hellohappy.org/beautiful-web-type/)
+6. [UICloud](http://ui-cloud.com/)
+7. [PixelsDaily](http://pixelsdaily.com/)
+8. [Fribbble](http://fribbble.com/)
+9. [Flat UI](http://designmodo.github.io/Flat-UI/)
+10. [Font Awesome](http://fortawesome.github.io/Font-Awesome/#)
+11. [Fontello](http://fontello.com/)
+12. [Ionicons](http://ionicons.com/)
 
 ### Unit Testing
 1. Jasmine
@@ -96,3 +131,5 @@ Tutorials / Guides
 
 ### Getting The Job
 1. [Amazing list of Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+
+Contributors: [Amit Burstein](https://github.com/amitburst), [David Coven](https://github.com/mrcoven94)
