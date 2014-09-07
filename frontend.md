@@ -1,4 +1,4 @@
-Front End Web Dev Resources 
+Frontend Web Dev Resources 
 ===============================
 
 ## Languages
@@ -19,8 +19,7 @@ Front End Web Dev Resources
     2. Foundation
 
 ### MV* Javascript 
-1. NodeJs
-    1. SailsJs
+1. KnockoutJs
 2. AngularJs
 3. MeteorJs
 4. PassportJs
@@ -28,7 +27,7 @@ Front End Web Dev Resources
 6. AmpersandJs
 7. BackboneJs
 8. UI-Lang
-9. KnockoutJs
+
 
 ### Unit Testing
 1. Jasmine
