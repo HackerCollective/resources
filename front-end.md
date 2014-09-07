@@ -6,16 +6,19 @@ Front End Web Dev Resources
 2. CSS (Casscading Style Sheets)
 3. Javascript
 
-## Frameworks
-
 ### HTML
 1. Jade
 
-### CSS
-1. SaaS
-2. Less
+### CSS Tools
+1. Precompilers
+    1. SaaS
+    2. Less
+    3. Stylus
+2. Frameworks
+    1. Bootstrap
+    2. Foundation
 
-### Javascript
+### MV* Javascript 
 1. NodeJs
     1. SailsJs
 2. AngularJs
@@ -25,6 +28,20 @@ Front End Web Dev Resources
 6. AmpersandJs
 7. BackboneJs
 8. UI-Lang
+9. KnockoutJs
+
+### Unit Testing
+1. Jasmine
+2. Karma
+
+### Front End Build Tools
+1. Bower/Package management
+2. Yeoman.io
+3. Grunt
+4. Gulp
+5. Browserify
+6. Require.js/AMD
+
 
 
 ### Getting The Job
