@@ -111,12 +111,12 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 8. [Coveralls](https://coveralls.io/)
 
 ### [[⬆]](#toc) <a name='fbt'> Frontend Build Tools:</a>
-1. Bower/Package management
-2. Yeoman.io
-3. Grunt
-4. Gulp
-5. Browserify
-6. Require.js/AMD
+1. [Bower/Package management](http://bower.io/) | Bower works by fetching and installing packages from all over, taking care of hunting, finding, downloading, and saving the stuff you’re looking for. Bower keeps track of these packages in a manifest file, bower.json. How you use packages is up to you. Bower provides hooks to facilitate using packages in your tools and workflows.
+2. [Yeoman.io](http://yeoman.io/) | Yeoman helps you kickstart new projects, prescribing best practices and tools to help you stay productive.
+3. [Grunt](http://gruntjs.com/) | Grunt in one word: automation. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it, a task runner can do most of that mundane work for you—and your team—with basically zero effort.
+4. [Gulp](http://gulpjs.com/) | Gulp is a streaming build system, very similar to Grunt.
+5. [Browserify](http://browserify.org/) | Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
+6. [Require.js](http://requirejs.org/) | RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
 
 ### [[⬆]](#toc) <a name='resource4learn'> Great Resources For Learning :</a>
 1. [Code Academy](http://www.codecademy.com/) | This is a great FREE resource for alot of the web dev. languages both frontend and backend, and what I found super helpful! 
@@ -129,19 +129,19 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 8. [HTML5 and CSS3 For Dummies by Andy Harris:](http://www.amazon.com/HTML5-CSS3-All-One-Dummies/dp/1118289382)
 
 ### [[⬆]](#toc) <a name='online'> Getting Your Website Online:</a>
-##### [[⬆]](#toc) <a name='dnrh'> Domain Name Registration: + Hosting:</a>
-1. [NameCheap](http://www.namecheap.com/), they are the best to our hackers! :)
-2. [Go Daddy](http://www.godaddy.com/)
-3. [Blue Host](http://www.bluehost.com/)
-4. [Award Space](http://www.awardspace.com/)
-5. [HostGator](http://www.hostgator.com/)
-6. [Just Host](http://www.justhost.com/) 
-7. [GitHub](https://github.com/) This is what I use, and I’m cool + it’s free
+##### [[⬆]](#toc) <a name='dnrh'> Domain Name Registration + Hosting: (D + H)</a>
+1. [NameCheap](http://www.namecheap.com/) (D+H) | They are the best to our hackers! :) 
+2. [Go Daddy](http://www.godaddy.com/) (D+H) |
+3. [Blue Host](http://www.bluehost.com/) (D+H) |
+4. [Award Space](http://www.awardspace.com/) (D+H) |
+5. [HostGator](http://www.hostgator.com/) (D+H) |
+6. [Just Host](http://www.justhost.com/) (D+H)
+7. [GitHub](https://github.com/) (H) | This is what I use for the majority of my hosting, and I’m cool + it’s free, but only for static sites, check [backend resources](https://github.com/mrcoven94/resources/blob/gh-pages/backend-webdev.md) (H) | for the more dynamic free options. 
 8. [BitBucket](https://bitbucket.org/) 
 
 ##### [[⬆]](#toc) <a name='ftp'> FTP :</a>
-1. [CyberDuck]()
-2. [Firezilla]()
+1. [CyberDuck](https://cyberduck.io/?l=en) |
+2. [Firezilla](https://filezilla-project.org/) |
 
 ### [[⬆]](#toc) <a name='github'> Using Github:</a>
 1. [Read This Article First (Programming Way of Setting Up Your Site, using Git)](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-2. beginners-part-1#awesm=~ozMC4gq6eTfUby)
