@@ -10,11 +10,10 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 3. Finance
     1. Trading / Investing
 4. Internships
-5. IOS Development
+5. [IOS Development](https://github.com/mrcoven94/resources/blob/gh-pages/IOS.md)
 6. Web Development 
-    1. Front End
-    2. Back End
-    3. Databases
+    1. [Frontend](https://github.com/mrcoven94/resources/blob/gh-pages/frontend.md)
+    2. [Backend](https://github.com/mrcoven94/resources/blob/gh-pages/backend.md)
     4. Security
 7. Scholarships
     1. College (Undergrad & Graduate) Vs. High School

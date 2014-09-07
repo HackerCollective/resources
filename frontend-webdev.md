@@ -13,7 +13,7 @@ Web Development, "is a mix of programming and layout that powers the visuals and
     1. [Brackets](http://brackets.io/) | a text editor made for web developers, in javascript. I think its awesome. 
     2. [Sublime Text](http://www.sublimetext.com/) | I love the colors, and the vast amount of languages it works for | works for all the following web dev. languages *RECOMMENDED FOR BEGINNERS* If you do decide to pick sublime, I recommend downloading two important packages that will streamline your coding: Emmet and SFTP. 
     3. [Atom](https://atom.io/) | Made by GitHub, an open source text editor, there is a lot of potential for customizibility
-    4. Vim |
+    4. [Vim](http://www.vim.org/) | Vim, is a very old but highly robust editor.
     5. Text Wrangler (Mac App)
     6. Notepad / Notepad ++
 
@@ -22,7 +22,7 @@ Web Development, "is a mix of programming and layout that powers the visuals and
 1. Jade
 
 ### CSS 
-1.
+1. yo 
 2. Precompilers
     1. SaaS
     2. Less
