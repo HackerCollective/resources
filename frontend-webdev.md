@@ -17,9 +17,18 @@ Web Development, "is a mix of programming and layout that powers the visuals and
     5. Text Wrangler (Mac App)
     6. Notepad / Notepad ++
 
+CodeAcademy |http://www.codecademy.com/ (This is a great FREE resource for alot of the web dev. languages, and what I found super helpful!) 
+Dash | https://dash.generalassemb.ly/ (This is a great FREE resource for HTML, CSS, JS)
+Code School | https://www.codeschool.com/ ( Only has some free resources, but the free ones are pretty nice)
+Tinkernut HTML | http://www.youtube.com/watch?v=6Ct6emxVR9w (Youtube guide for a very nitty gritty website, very easy to follow, and very light)
 
 ### HTML
-1. Jade
+1. Tutorials / Guides
+    1. Online
+        1. [Code Academy](http://www.codecademy.com/)
+    2. Books
+    3. Articles
+2. Jade
 
 ### CSS 
 1. yo 
