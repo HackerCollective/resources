@@ -26,7 +26,6 @@ Web Development, "is a mix of programming and layout that powers the visuals and
         2. [Dash](https://dash.generalassemb.ly/) | This is a great FREE resource for HTML, CSS, JS.
         3. [Code School](https://www.codeschool.com/) | Only has some free resources, but the free ones are pretty nice
         4. [Tinkernut HTML](http://www.youtube.com/watch?v=6Ct6emxVR9w ) | Youtube guide for a very nitty gritty website, very easy to follow, and very light
-
     2. Books
     3. Articles
 2. Jade
