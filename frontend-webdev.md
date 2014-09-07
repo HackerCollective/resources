@@ -14,6 +14,8 @@ Web Development, "is a mix of programming and layout that powers the visuals and
   1. [Frontend Build Tools](#fbt)
   1. [Resources For Learning](#resources4learn)
   1. [Getting your website online](#online)
+    1. [Domain Name Registration: + Hosting:](#dnrh)
+    2. [FTP:](#ftp)
   1. [Using Github](#github)
     1. [Learning Git](#git)
   1. [Getting The Job](#job)
@@ -127,19 +129,17 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 8. [HTML5 and CSS3 For Dummies by Andy Harris:](http://www.amazon.com/HTML5-CSS3-All-One-Dummies/dp/1118289382)
 
 ### [[⬆]](#toc) <a name='online'> Getting Your Website Online:</a>
-##### Domain Name Registration: + Hosting 
+##### [[⬆]](#toc) <a name='dnrh'> Domain Name Registration: + Hosting:</a>
 1. [NameCheap](http://www.namecheap.com/), they are the best to our hackers! :)
 2. [Go Daddy](http://www.godaddy.com/)
 3. [Blue Host](http://www.bluehost.com/)
 4. [Award Space](http://www.awardspace.com/)
 5. [HostGator](http://www.hostgator.com/)
 6. [Just Host](http://www.justhost.com/) 
+7. [GitHub](https://github.com/) This is what I use, and I’m cool + it’s free
+8. [BitBucket](https://bitbucket.org/) 
 
-####### Hosting + Open Source Communities 
-1. [GitHub](https://github.com/) This is what I use, and I’m cool + it’s free
-2. [BitBucket](https://bitbucket.org/) 
-
-#### FTP 
+##### [[⬆]](#toc) <a name='ftp'> FTP :</a>
 1. [CyberDuck]()
 2. [Firezilla]()
 
@@ -150,7 +150,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 5. [Github markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 6. [Github Markdown #2](http://assemble.io/docs/Cheatsheet-Markdown.html)
 
-#### [[⬆]](#toc) <a name='git'> Learning Git :</a>
+##### [[⬆]](#toc) <a name='git'> Learning Git :</a>
 
 ### [[⬆]](#toc) <a name='job'>Getting The Job:</a>
 1. [Amazing list of Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
