@@ -16,16 +16,17 @@ Web Development, "is a mix of programming and layout that powers the visuals and
     4. [Vim](http://www.vim.org/) | Vim, is a very old but highly robust editor.
     5. Text Wrangler (Mac App)
     6. Notepad / Notepad ++
-
-CodeAcademy |http://www.codecademy.com/ (This is a great FREE resource for alot of the web dev. languages, and what I found super helpful!) 
-Dash | https://dash.generalassemb.ly/ (This is a great FREE resource for HTML, CSS, JS)
-Code School | https://www.codeschool.com/ ( Only has some free resources, but the free ones are pretty nice)
-Tinkernut HTML | http://www.youtube.com/watch?v=6Ct6emxVR9w (Youtube guide for a very nitty gritty website, very easy to follow, and very light)
+    
+---
 
 ### HTML
 1. Tutorials / Guides
     1. Online
-        1. [Code Academy](http://www.codecademy.com/)
+        1. [Code Academy](http://www.codecademy.com/) | This is a great FREE resource for alot of the web dev. languages both frontend and backend, and what I found super helpful! 
+        2. [Dash](https://dash.generalassemb.ly/) | This is a great FREE resource for HTML, CSS, JS.
+        3. [Code School](https://www.codeschool.com/) | Only has some free resources, but the free ones are pretty nice
+        4. [Tinkernut HTML](http://www.youtube.com/watch?v=6Ct6emxVR9w ) | Youtube guide for a very nitty gritty website, very easy to follow, and very light
+
     2. Books
     3. Articles
 2. Jade
