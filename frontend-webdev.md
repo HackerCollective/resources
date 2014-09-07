@@ -20,6 +20,8 @@ Web Development, "is a mix of programming and layout that powers the visuals and
 ---
 
 ### HTML
+HTML, is essentially the skeleton of your webpage, it is what builds the structure of your site / app.
+
 1. Tutorials / Guides
     1. Online
         1. [Code Academy](http://www.codecademy.com/) | This is a great FREE resource for alot of the web dev. languages both frontend and backend, and what I found super helpful! 
@@ -28,7 +30,6 @@ Web Development, "is a mix of programming and layout that powers the visuals and
         4. [Tinkernut HTML](http://www.youtube.com/watch?v=6Ct6emxVR9w ) | Youtube guide for a very nitty gritty website, very easy to follow, and very light
     2. Books
     3. Articles
-2. Jade
 
 ### CSS 
 1. yo 
