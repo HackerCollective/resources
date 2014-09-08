@@ -8,3 +8,9 @@ The first question we must always ask is, what and why? What the hell is Rails, 
 3. [Learn to Program](https://pine.fm/LearnToProgram/)
 4. [Learn Ruby Hard Way](http://ruby.learncodethehardway.org/book/)
 5. [Ruby Monk](https://rubymonk.com/)
+
+
+Need to incorporate
+https://netguru.co/blog/posts/top-free-online-ruby-tutorials
+http://jocellyn.cz/2014/07/09/ruby-on-rails-crossroad.html
+http://yhagio.github.io/ruby-and-rails/
