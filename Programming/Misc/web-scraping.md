@@ -21,7 +21,7 @@ Web Scraping is some crazy shit that allows you can use for many reasons.  A goo
 4. Java
 
 
-## The Break Down
+
 ### [[⬆]](#toc) <a name='Parsers'>Parsers:</a>
 1. Python
     1. [BeautifulSoup](http://beautiful-soup-4.readthedocs.org/en/latest/) | Community accepted best Python tool for parsing HTML/XML
