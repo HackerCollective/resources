@@ -17,6 +17,8 @@ Backend Web Dev Resources
     2. [mean.io](http://mean.io/#!/)
     3. [passportjs](http://passportjs.org/)
 6. Ruby on Rails
+    1. [Get Started Learning](https://github.com/mrcoven94/resources/blob/gh-pages/Programming/WebDev/RubyOnRails.md)
+    
 7. Java
     1. [Spring Framework](http://projects.spring.io/spring-framework/)
 
