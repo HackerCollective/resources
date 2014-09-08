@@ -153,8 +153,13 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 4. [Hosting Multiple Project Sites Tutorials: Video](http://www.youtube.com/watch?v=J8RLq9LXFXk)
 5. [Github markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 6. [Github Markdown #2](http://assemble.io/docs/Cheatsheet-Markdown.html)
+7. [Mastering Github - Code School](https://www.codeschool.com/courses/mastering-github)
 
 ##### [[⬆]](#toc) <a name='git'> Learning Git :</a>
+1. [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
+2. [10 Git Tutorials for Beginners Git Immersion](http://gitimmersion.com/)
+3. [Book: Version Control with Git](http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387/ref=pd_sim_b_1)
+4. [Git Basics](http://git-scm.com/book/en/Getting-Started-Git-Basics)
 
 ### [[⬆]](#toc) <a name='job'>Getting The Job:</a>
 1. [Amazing list of Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
