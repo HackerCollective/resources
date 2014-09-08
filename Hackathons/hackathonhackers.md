@@ -1,7 +1,7 @@
 Hackathon Hackers
 ==================
 
-#HackathonSeason is going to be #STACKED
+#Hackathon Season is going to be #STACKED
 
 This is the all-inclusive hackathons group.
 
