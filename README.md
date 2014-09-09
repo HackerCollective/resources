@@ -6,7 +6,7 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 ##### Topics So Far
 1. College Lyfe
     1. Study Abroad
-2. Conferences / Hackathons (maybe I'll split them up)
+2. Conferences 
 3. Finance
     1. Trading / Investing
 4. Internships
