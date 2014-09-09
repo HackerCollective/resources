@@ -15,9 +15,13 @@ The first question we must always ask is, what and why? What the hell is Rails, 
 
 ### Time For Rails
 
-1. 
-2. 
-3. 
+[Rails for Zombies](http://railsforzombies.org/levels/1)
+[Ruby on Rails Tutorial - Michael Hartl](https://www.railstutorial.org/book/frontmatter) | Free online book, SUPER Recommended
+[Official Rails Guides](http://guides.rubyonrails.org/)
+[Best Way To Learn Rails Tuts +](http://code.tutsplus.com/tutorials/the-best-way-to-learn-ruby-on-rails--net-21820)
+[University of Texas Rails Course](http://www.schneems.com/ut-rails/)
+[University of Reddit - Rails](http://ureddit.com/class/40250/web-programming-with-ruby-on-rails)
+
 
 Need to incorporate
 1. http://jocellyn.cz/2014/07/09/ruby-on-rails-crossroad.html
