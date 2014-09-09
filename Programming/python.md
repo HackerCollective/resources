@@ -10,7 +10,8 @@ Python is also an interpreted language. This means that it is not converted to c
 ## <a name='toc'>Table of Contents</a>
 
   1. [An Introduction to Python](#intro)
-  1. [Tutorial It Up ](#tutorial)
+  2. [Tutorial It Up ](#tutorial)
+  3. [The Pythonic Way](#zen)
 
 ####[[⬆]](#toc)
 
@@ -52,4 +53,29 @@ Once you have [downloaded and installed](https://www.python.org/download/) Pytho
 ### Examples
 [Great Examples from Think Python](http://www.greenteapress.com/thinkpython/code/)
 
-Contributors: [Al Lukaszewski](http://python.about.com/bio/Al-Lukaszewski.htm), [David Coven]()
+## [[⬆]](#toc) <a name='zen:'>The Zen of Python</a>
+The Zen of Python is a guidline on how to write Pythonically.  It was authored by Tim Peters.  You can see this by running IDLE/ Python in your terminal and typing `import this`.
+
+```
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+```
+
+Contributors: [Al Lukaszewski](http://python.about.com/bio/Al-Lukaszewski.htm), [David Coven](), [Frank Cash](http://hackerqueue.io)
