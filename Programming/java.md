@@ -1,4 +1,6 @@
-# Awesome Java
+# Getting Started With Java
+
+So, you wanna learn Java eh? Do you really know what Javs is?
 
 
 - [Table of Contents](#awesome-java)
