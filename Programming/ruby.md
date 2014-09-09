@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/> Getting started with Ruby
 
-A collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
+What the hell is Ruby? Ruby is a dynamic, reflective, object-oriented, general-purpose programming language.
 
 * [Table of Contents](#awesome-ruby)
   * [Abstraction](#abstraction)
