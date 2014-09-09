@@ -574,3 +574,5 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/mrcoven94/resources/blob/gh-pages/CONTRIBUTING.md) first.
+
+Contributors: [sorrycc](https://github.com/sorrycc), [David Coven](https://github.com/mrcoven94),
