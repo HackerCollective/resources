@@ -32,3 +32,9 @@ Web Scraping is some crazy shit that allows you can use for many reasons.  A goo
 4. Java
 
 ### [[⬆]](#toc) <a name='robots':>Robots.txt:</a>
+The Robots.txt is a publically viewable file that most (any site worth it's weight) will have.  It tells a viewer/robot which type of robots/crawlers are allowed and to which parts of the site.  Example:
+```
+User-Agen: *
+Disallow: /
+```
+This script would tell all user's `*` that they cannot crawl any part of the site `/`.  But if you were to check out GitHub's [Robot.txt](https://github.com/robots.txt) you would see that they allow specific bots, and disallow ones that they are not aware of.  Many websites will be like this.  But as a writer of a web crawler you have the ability to not follow these guidlines, just like it isn't necessary to color between the lins of a coloring book.  The author will probably never know (unless your crawler is doing an extensive amount of traffic/ malicious things), but you will.   
