@@ -31,9 +31,9 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
     2. Startups
     
     
-
-Feel free to open up issues, send pull request, etc.
+### Contributing
+Please refer to our [Contributing Doc](https://github.com/mrcoven94/resources/blob/gh-pages/CONTRIBUTING.md), before anything so that we can have consistency, and high quality content. Feel free to open up issues, send pull request, etc.
 
 License: [MIT License](https://github.com/mrcoven94/resources/blob/gh-pages/LICENSE.md)
 
-Inspired by [Jennifer Apacible - Res](https://github.com/japacible/res), the original gangsta. 
+Inspired by [Jennifer Apacible - Res](https://github.com/japacible/res), the original gangsta, and [Alexander Bayandin's Awesome-Awesome](https://github.com/bayandin/awesome-awesomeness). 
