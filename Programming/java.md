@@ -459,4 +459,4 @@ So, you wanna learn Java eh? Do you really know what Java is? Java is a computer
 
 
 
-Contributors: [David Coven](), [akullpp](https://github.com/akullpp), 
+Contributors: [David Coven](https://github.com/mrcoven94), [sorrycc](https://github.com/sorrycc), 
