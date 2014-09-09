@@ -41,13 +41,13 @@ Once you have [downloaded and installed](https://www.python.org/download/) Pytho
 5. [Controlling the Flow](http://python.about.com/od/tutorial1/ss/begpyctrl.htm) | Computer programs are all about choices: if low, buy; if high, sell. This tutorial covers the several ways of expressing decisions in Python. 
 6. [Putting it All Together With Syntax](http://python.about.com/od/tutorial1/ss/pytutsyntax.htm) | In order for your commands to make any sense to the computer, they must follow a certain protocol, put certain pieces of information in certain places. This "putting together" is what syntax is all about (in fact, syntax comes from the Greek word which means 'put together'). This tutorial will teach you what should be put together with what. 
 7. [Exceptions, Errors, and Warnings](http://python.about.com/od/gettingstarted/ss/begpyexceptions.htm) | If your programs are going to live in the real world, they had better be able to crash softly. This tutorial tells you how to ensure that. 
-8. [Python's Encodings for Unicode and ASCII](http://python.about.com/od/gettingstarted/ss/begpyencodings.htm) | Python's encoding functions offer a means of encoding ASCII in Unicode and vice versa. Any program that might be used on the internet someday will need to work with multiple character sets. Here is how. More »
+8. [Python's Encodings for Unicode and ASCII](http://python.about.com/od/gettingstarted/ss/begpyencodings.htm) | Python's encoding functions offer a means of encoding ASCII in Unicode and vice versa. Any program that might be used on the internet someday will need to work with multiple character sets. Here is how. 
 
 
 ### Framework it up!
-1. [Flask]
-2. [Django]
-3. [CherryPy]
+1. [Flask](http://flask.pocoo.org/) | A lightweight Python web framework based on Werkzeug and Jinja 2. Code, documentation, and community links are provided.
+2. [Django](https://www.djangoproject.com) | Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+3. [CherryPy](http://cherrypy.org/) | CherryPy allows developers to build web applications in much the same way they would build any other object-oriented Python program. This results in smaller source code developed in less time.
 
 ### Examples
 [Great Examples from Think Python](http://www.greenteapress.com/thinkpython/code/)
