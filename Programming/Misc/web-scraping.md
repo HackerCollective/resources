@@ -8,9 +8,10 @@ Web Scraping is some crazy shit that allows you can use for many reasons.  A goo
 
   1. [Resources](#resources)
   2. [Parsers](#parsers)
+  3. [Robots.txt](#robots)
 
 
-### [[⬆]](#toc) <a name='Scraping Libraries'>Scraping Libraries:</a>
+### [[⬆]](#toc) <a name='resources'>Scraping Libraries:</a>
 1. Python
     1. [Urllib](https://docs.python.org/2/library/urllib.html) | This is a stdlib option and definitely not suggested!
     2. [Requests](http://docs.python-requests.org/en/latest/) | By far the best option available.
@@ -22,10 +23,12 @@ Web Scraping is some crazy shit that allows you can use for many reasons.  A goo
 
 
 
-### [[⬆]](#toc) <a name='Parsers'>Parsers:</a>
+### [[⬆]](#toc) <a name='parsers'>Parsers:</a>
 1. Python
     1. [BeautifulSoup](http://beautiful-soup-4.readthedocs.org/en/latest/) | Community accepted best Python tool for parsing HTML/XML
 2. Node.js (JavaScript)
     1. [Cheerio](https://github.com/cheeriojs/cheerio) | Server sided jQuery tool that allows you to manipulate scraped pages with jQuery like features (has other uses too!)
 3. Ruby
 4. Java
+
+### [[⬆]](#toc) <a name='robots>Robots.txt:</a>
