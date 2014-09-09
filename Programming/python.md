@@ -5,33 +5,18 @@ So you wanna learn python eh? Well, what is python? Python is a general purpose 
 
 Python is also an interpreted language. This means that it is not converted to computer-readable code before the program is run but at runtime. In days gone by, this type of language was called a scripting language, intimating its use for trivial or banal tasks. However, programming languages such as Python have forced a change in that nomenclature. Increasingly, large applications are written almost exclusively in Python. As mentioned above, in addition to being used by Google and NASA to complement other languages, Python is used almost exclusively for such applications as YouTube and the web-based transaction system of the New York Stock Exchance (NYSE).
 
->"Python has been built up over the decades and, being an open source language, a lot of this has been released for others to use. Almost all of it is collected on https://pypi.python.org, pronounced “pie-pee-eye” or, more commonly called “the CheeseShop”."--[Team Tree House](http://blog.teamtreehouse.com/what-is-python)
+**You have the option of learning from front to back or jumping straight into a pretty damn good tutorial, made by [Al Lukaszewski](http://python.about.com/bio/Al-Lukaszewski.htm) to get down and dirty. The choice is yours.**
 
-### Straigt Up Tutorial
-This series of tutorials is intended to help anyone learn to program in Python. If you are new to computers, however, you may benefit from the absolute beginner's tutorial: How a Computer Looks at Your Program.
+## <a name='toc'>Table of Contents</a>
 
-Once you have downloaded and installed Python for your platform or operating system, you will probably want to jump right into programming. Before you do, you should ensure that you are equipped with an editor you can live with and familiarize yourself with the basics of Python programming.
+  1. [An Introduction to Python](#intro)
+  1. [Tutorial It Up ](#tutorial)
 
-1. Executing a Python Program: Shell or File?
-Programming is pointless if you cannot run, or execute, the program you write. Executing a Python program tells the Python interpreter to convert the Python program into something the computer can read and act upon. There are two ways to do this: using a Python shell and calling the Python interpreter with a "bang" line. More »
-2. Choosing a Text Editor for Python Programming
-To program Python, most any text editor will do. A text editor is a program that saves your files without formatting. More »
-3. Data Types
-In order to program, you need to know the types of containers your program uses to hold your data. This tutorial will help you know when to use which kind. More »
-4. Operators
-Before you can calculate anything, you should read this tutorial and learn which symbols mean what operation to Python. More »
-5. Controlling the Flow
-Computer programs are all about choices: if low, buy; if high, sell. This tutorial covers the several ways of expressing decisions in Python. More »
-6. Putting it All Together With Syntax
-In order for your commands to make any sense to the computer, they must follow a certain protocol, put certain pieces of information in certain places. This "putting together" is what syntax is all about (in fact, syntax comes from the Greek word which means 'put together'). This tutorial will teach you what should be put together with what. More »
-7. Exceptions, Errors, and Warnings
-If your programs are going to live in the real world, they had better be able to crash softly. This tutorial tells you how to ensure that. More »
-8. Python's Encodings for Unicode and ASCII
-Python's encoding functions offer a means of encoding ASCII in Unicode and vice versa. Any program that might be used on the internet someday will need to work with multiple character sets. Here is how. More »
+####[[⬆]](#toc)
 
 If you wanna dive straight into the programming and get your feet wet, dive into #1 [Team Tree House's](http://teamtreehouse.com/library/python-basics/upcoming) online interactive tool for learning. If you wanna start from scratch and work through the entire thing begin with #4 [Learning Python from Scratch](http://code.tutsplus.com/series/python-from-scratch--net-20566). If you're really a rebel, jump into #3, and do it like a boss, [the hard way.](http://learnpythonthehardway.org/)
 
-### An Introduction to Python
+## [[⬆]](#toc) <a name='intro'>An Introduction to Python</a>
 1. [Python By Team Tree House](http://teamtreehouse.com/library/python-basics/upcoming) | If you're new to Python, this is the place to start. In this course, you'll take a look at some of the most common and important bits of the language, how to use them, and then put them together into several different handy scripts. Finally, you'll build a small console game using all of the stuff you've learned!
 2. [Code Academy](http://www.codecademy.com/en/tracks/python) | In this Codecademy course you will learn how to work with files, how to use loops and how they work, what are functions and what they’re good for. It’s all very basic, and very beginner friendly. There is community forums available for those who need help, but usually everything can be understood from within the dashboard you’re working with.
 3. [Learn Python The Hard Way](http://learnpythonthehardway.org/) | The absolute easiest way of learning Python is by completing this book. You’ll be amazed at how easy it is to pickup the basics, and you get that sense of real learning process, acquiring new knowledge as you move forward. 
@@ -44,6 +29,19 @@ If you wanna dive straight into the programming and get your feet wet, dive into
 10. [Think Python](http://www.greenteapress.com/thinkpython/) | Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters. You can even find some example code [here](http://www.greenteapress.com/thinkpython/code/)
 11. [Learning from the docs](https://www.python.org/about/gettingstarted/) | This right here is the source. The official docs of the open source community that make up python.
 
+## [[⬆]](#toc) <a name='tutorial'>Straigt Up Tutorial</a>
+This series of tutorials is intended to help anyone learn to program in Python. If you are new to computers, however, you may benefit from the absolute beginner's tutorial: [How a Computer Looks at Your Program.](http://python.about.com/od/throughacomputerseye/ss/begprogramming.htm)
+
+Once you have [downloaded and installed](https://www.python.org/download/) Python for your platform or operating system, you will probably want to jump right into programming. Before you do, you should ensure that you are equipped with an editor you can live with and familiarize yourself with the basics of Python programming.
+
+1. [Executing a Python Program: Shell or File?](http://python.about.com/od/gettingstarted/ss/beg_executing.htm) | Programming is pointless if you cannot run, or execute, the program you write. Executing a Python program tells the Python interpreter to convert the Python program into something the computer can read and act upon. There are two ways to do this: using a Python shell and calling the Python interpreter with a "bang" line. 
+2. [Choosing a Text Editor for Python Programming](http://python.about.com/od/gettingstarted/ss/text_editors.htm) | To program Python, most any text editor will do. A text editor is a program that saves your files without formatting. 
+3. [Data Types](http://python.about.com/od/tutorial1/ss/begin_python.htm) | In order to program, you need to know the types of containers your program uses to hold your data. This tutorial will help you know when to use which kind. 
+4. [Operators](http://python.about.com/od/tutorial1/ss/begpyops.htm) | Before you can calculate anything, you should read this tutorial and learn which symbols mean what operation to Python. 
+5. [Controlling the Flow](http://python.about.com/od/tutorial1/ss/begpyctrl.htm) | Computer programs are all about choices: if low, buy; if high, sell. This tutorial covers the several ways of expressing decisions in Python. 
+6. [Putting it All Together With Syntax](http://python.about.com/od/tutorial1/ss/pytutsyntax.htm) | In order for your commands to make any sense to the computer, they must follow a certain protocol, put certain pieces of information in certain places. This "putting together" is what syntax is all about (in fact, syntax comes from the Greek word which means 'put together'). This tutorial will teach you what should be put together with what. 
+7. [Exceptions, Errors, and Warnings](http://python.about.com/od/gettingstarted/ss/begpyexceptions.htm) | If your programs are going to live in the real world, they had better be able to crash softly. This tutorial tells you how to ensure that. 
+8. [Python's Encodings for Unicode and ASCII](http://python.about.com/od/gettingstarted/ss/begpyencodings.htm) | Python's encoding functions offer a means of encoding ASCII in Unicode and vice versa. Any program that might be used on the internet someday will need to work with multiple character sets. Here is how. More »
 
 
 ### Framework it up!
@@ -53,3 +51,5 @@ If you wanna dive straight into the programming and get your feet wet, dive into
 
 ### Examples
 [Great Examples from Think Python](http://www.greenteapress.com/thinkpython/code/)
+
+Contributors: [Al Lukaszewski](http://python.about.com/bio/Al-Lukaszewski.htm), [David Coven]()
