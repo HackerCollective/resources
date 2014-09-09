@@ -15,12 +15,12 @@ The first question we must always ask is, what and why? What the hell is Rails, 
 
 ### Time For Rails
 
-[Rails for Zombies](http://railsforzombies.org/levels/1)
-[Ruby on Rails Tutorial - Michael Hartl](https://www.railstutorial.org/book/frontmatter) | Free online book, SUPER Recommended
-[Official Rails Guides](http://guides.rubyonrails.org/)
-[Best Way To Learn Rails Tuts +](http://code.tutsplus.com/tutorials/the-best-way-to-learn-ruby-on-rails--net-21820)
-[University of Texas Rails Course](http://www.schneems.com/ut-rails/)
-[University of Reddit - Rails](http://ureddit.com/class/40250/web-programming-with-ruby-on-rails)
+1. [Rails for Zombies](http://railsforzombies.org/levels/1)
+2. [Ruby on Rails Tutorial - Michael Hartl](https://www.railstutorial.org/book/frontmatter) | Free online book, SUPER Recommended
+3. [Official Rails Guides](http://guides.rubyonrails.org/)
+4. [Best Way To Learn Rails Tuts +](http://code.tutsplus.com/tutorials/the-best-way-to-learn-ruby-on-rails--net-21820)
+5. [University of Texas Rails Course](http://www.schneems.com/ut-rails/)
+6. [University of Reddit - Rails](http://ureddit.com/class/40250/web-programming-with-ruby-on-rails)
 
 
 Need to incorporate
