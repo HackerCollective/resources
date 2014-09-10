@@ -3,7 +3,7 @@ Resources
 
 Personal dump of resources. I've had a lot of fun these past two years, and through that I've had a lot of time to learn and think. Here is my personal collection of resources, ranging from engineering, to programming, and scholarships.
 
-[![forthebadge](http://forthebadge.com/badges/oooo-kill-em.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/badges/oooo-kill-em.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/badges/certified-cousin-terio.svg)](http://forthebadge.com)
 
 ##### Topics So Far
 1. College Lyfe
