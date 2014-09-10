@@ -26,3 +26,4 @@ The first question we must always ask is, what and why? What the hell is Rails, 
 Need to incorporate
 1. http://jocellyn.cz/2014/07/09/ruby-on-rails-crossroad.html
 2. http://yhagio.github.io/ruby-and-rails/
+3. Integrating with API to send out email: https://github.com/prathamalag1994/mailgun, https://github.com/prathamalag1994/ap, https://github.com/prathamalag1994/dir
