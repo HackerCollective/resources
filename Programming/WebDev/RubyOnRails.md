@@ -4,12 +4,19 @@ The first question we must always ask is, what and why? What the hell is Rails, 
 ### Learning Ruby First
 
 1. [Codecademy](http://www.codecademy.com/tracks/ruby) | The Ruby Track consists of 10 main chapters, teaching would-be Rubyists the basic concepts from the comfort of their own browser. It takes approximately 9 hours to complete the full course and, although the CA guidelines recommend having some basic programming background before, it looks more like a great introduction for non-programmers
+
 2. [Try Ruby](http://tryruby.org/levels/1/challenges/0) | Try Ruby is a clean, beginner-friendly, online tutorial that lets you dip into the world of Ruby straight from your browser. Equipped with an online code editor, (no need to set up a test environment on your machine!) you can get your feet wet immediately
+
 3. [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/) | Ruby Warrior (by Bloc.io) is based on Ryan Bates’ command line version of the game and apart from Ruby knowledge, includes the 90’s nostalgia of pixel art. You play as a warrior climbing a tall tower to reach the precious Ruby at the top level. On each floor you need to write a Ruby script to instruct the warrior to battle enemies, rescue captives, and reach the stairs.
+
 4. [Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) | 
+
 5. [Learn to Program](https://pine.fm/LearnToProgram/) | If you’re a beginner wanting an introduction to the language and you prefer a more direct approach - try Learn to Program. This very basic, ground-level tutorial  is organized according to a very simple rule: each chapter describes a particular concept and is followed by a series of exercises which build upon previously acquired knowledge.
+
 6. [Learn Ruby Hard Way](http://ruby.learncodethehardway.org/book/) | Learn Ruby the Hard Way is a mirror resource for Learn Python the Hard Way. T No interactive code editors here! The tutorial includes plenty of examples, additional resources and goes far beyond the basics.
+
 7. [Ruby Monk](https://rubymonk.com/) | Ruby Monk is an interactive platform that helps you master programming in Ruby, recommended by Yukihiro Matsumoto himself. It consists of several ‘do it in the browser’ courses, from beginner to advanced level. It’s geared towards those who already have some previous programming experience under their belt (and definitely less visual in comparison to Codecademy or TryRuby).
+
 8. [Ruby Koans](http://rubykoans.com/) | The goal of the Ruby Koans is to learn the Ruby language, syntax, structure, and some common functions and libraries. The tutorial is structured around a set of files (unit tests) that need to be fixed before you can move to the next level.
 
 
