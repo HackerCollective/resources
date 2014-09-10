@@ -14,7 +14,7 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 6. [Programming](https://github.com/mrcoven94/resources/tree/gh-pages/Programming)
     1. [IOS](https://github.com/mrcoven94/resources/blob/gh-pages/Programming/MobileDev/IOS.md)
     2. [Windows](https://github.com/mrcoven94/resources/blob/gh-pages/Programming/MobileDev/Windows.md)
-    2. [Frontend](https://github.com/mrcoven94/resources/blob/gh-pages/frontend.md)
+    2. [Frontend](https://github.com/mrcoven94/resources/blob/gh-pages/Programming/WebDev/frontend-webdev.md)
     3. [Backend](https://github.com/mrcoven94/resources/blob/gh-pages/backend.md)
         1. [Ruby on Rails](https://github.com/mrcoven94/resources/blob/gh-pages/Programming/WebDev/RubyOnRails.md)
     4. [Python](https://github.com/mrcoven94/resources/blob/gh-pages/Programming/python.md)
