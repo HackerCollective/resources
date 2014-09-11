@@ -17,9 +17,12 @@ Getting Started with IOS
 7. To see sample projects, [Coco Controls](https://www.cocoacontrols.com) is a library of very high quality sample projects. If you ever want to reverse engineer what other people do, take their sample projects and hack around with them.
 
 8. If you need a backend for your app but don't have experience, a tool called [parse](https://www.parse.com) allows you to easily integrate a backend with your app so you can focus on the client-side. It handles login, signup and data storage. It's pretty awesome.
+9. 
+## Objective-C
 
-### Swift
+## Swift
 [The swift blog via Apple](https://developer.apple.com/swift/blog/?id=1)
+
 ### Awesome Github Examples
 1. [Learning iOS development by creating 100 apps in 100 days](https://github.com/grant/100-Apps): Grant Timmerman
 2. [Code for the Swift Tutorial on jamesonquave.com](https://github.com/grant/Swift-Tutorial): Grant Timmerman
