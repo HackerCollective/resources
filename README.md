@@ -7,16 +7,16 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 
 ##### Topics So Far
 
-| Hackathons         | Scholarships    | Business        | Web Development | Mobile Development | Gen. Programming   |
+| Hackathons         | General         | Business        | Web Development | Mobile Development | Gen. Programming   |
 | :-------------:    | :-------------: | :-------------: | :-------------: | :-------------:    | :-------------:    |
-| Hackathons list    | High School     | Entrepreneurship| Frontend        | IOS                | Haskell            |
-| HH Wiki            | College         | Startups        | Backend         | Android            | Java               |
-| Code of Conduct    | Merit           | Investing       | Ruby on Rails   | Windows            | Python             |
-|                    | Need Based      |                 | Javascript      |                    | Ruby               |
-|                    | Loans           |                 |                 |                    |                    |
-|                    | FAFSA / WASFA   |                 |                 |                    |                    |
-|                    | Dreamers        |                 |                 |                    |                    |
-|                    | General Guide   |                 |                 |                    |                    |
+| Hackathons list    |Chrome Extensions| Entrepreneurship| Frontend        | IOS                | Haskell            |
+| HH Wiki            |                 | Startups        | Backend         | Android            | Java               |
+| Code of Conduct    |                 | Investing       | Ruby on Rails   | Windows            | Python             |
+|                    |                 |                 | Javascript      |                    | Ruby               |
+|                    |                 |                 |                 |                    |                    |
+|                    |                 |                 |                 |                    |                    |
+|                    |                 |                 |                 |                    |                    |
+|                    |                 |                 |                 |                    |                    |
 |                    |                 |                 |                 |                    |                    |
 
 
