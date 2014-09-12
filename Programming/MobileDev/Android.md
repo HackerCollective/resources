@@ -19,6 +19,14 @@ _**-** Google Android Team_
 **Verdict: Slow**
 * [Android Studio](http://developer.android.com/sdk/installing/studio.html): Android Studio is a new Android development environment based on IntelliJ IDEA. **Verdict: Beta but Efficient**
 
+#### Online Sources:
+* [XDA-Developer Notes](http://www.xda-developers.com/android/want-to-learn-how-to-program-for-android-start-here/)
+* [UDemy](https://www.udemy.com/learn-android-programming-from-scratch-beta/)
+* [TreeHouse](http://teamtreehouse.com/join/android-development/)
+* [General Online Source List](http://www.ideatoappster.com/10-best-online-resources-learn-android-development/)
+
+> **What are you creating?**: Essentially you are coding in [Java](https://github.com/HackerCollective/resources/blob/gh-pages/Programming/java.md "Hacker Collective Resource Page") which then gets published into a package. This package is called an APK file, which is a compression format similar to JAR and ZIP.
+
 There are three steps for the perfect app: **[Design](http://developer.android.com/design/index.html "Android Dev. Design Home")** --> **[Develop](http://developer.android.com/develop/index.html  "Android Dev. Develop Home")** --> **[Distribute](http://developer.android.com/distribute/index.html  "Android Dev. Distribute Home")**
 
 ***
@@ -44,7 +52,17 @@ Develop
 Distribution
 --------------
 
-#### Coming Soon...
+1. [Upload your app to Google Play](https://play.google.com/apps/publish/signup/): So the most important part of distribution is uploading the app to the Play Store. There is a $25 fee. (If you do not want to upload it on play, simply publish it, and distribute the apk)
+2. [Distrbution Essentials](http://developer.android.com/distribute/essentials/index.html): A focus on quality should be part of your entire app delivery process: from initial concept through app and UI design, coding and testing and onto a process of monitoring feedback and making improvement after launch.
+3. [Building Buzz](http://developer.android.com/distribute/users/build-buzz.html): Distribution can usually be a piece of cake, but if you want to give it your all
 
+***
+
+> **TIP:** If you know Web Dev Languages really well and want to push a webapp to an Android app fast, you can use the various sources for the same.
+* [HTML 5 - Mobile App Framework](http://www.sitepoint.com/creating-mobile-html5-application-app-framework/)
+* [Phone Gap](http://phonegap.com/): Personal preference
+
+
+Contributors: [Mahir Kothary](https://github.com/mahirk)
 
 
