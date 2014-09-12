@@ -33,18 +33,18 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 
 ```
 
-| Hackathons    | Scholarships    | Business   | Web Development    | Mobile Development   | Gen. Programming   |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| [Hackathons list]()    | High School    | Entrepreneurship    | Content Cell    | Content Cell    | Content Cell    |
-| [HH Wiki]()    | College    | Startups    | Content Cell    | Content Cell    | Content Cell    |
-|     | Content Cell    | Merit   | Investing    | Content Cell    | Content Cell    |
-|     | Content Cell    | Need    | Content Cell    | Content Cell    | Content Cell    |
-|     | Content Cell    | Loans    | Content Cell    | Content Cell    | Content Cell    |
-|     | Content Cell    | FAFSA / WASFA / Dreamers    | Content Cell    | Content Cell    | Content Cell    |
-|     | Content Cell    | Content Cell    | Content Cell    | Content Cell    | Content Cell    |
-|     | Content Cell    | Content Cell    | Content Cell    | Content Cell    | Content Cell    |
-|     | Content Cell    | Content Cell    | Content Cell    | Content Cell    | Content Cell    |
-|     | Content Cell    | Content Cell    | Content Cell    | Content Cell    | Content Cell    |
+| Hackathons         | Scholarships    | Business        | Web Development    | Mobile Development   | Gen. Programming   |
+| :-------------:    | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| Hackathons list    | High School     | Entrepreneurship| Frontend    | Content Cell    | Content Cell    |
+| HH Wiki            | College         | Startups        | Backend   | Content Cell    | Content Cell    |
+|                    | Merit           | Investing       |                 | Content Cell    | Content Cell    |
+|                    | Need Based      |                 | Content Cell    | Content Cell    | Content Cell    |
+|                    | Loans           |                 | Content Cell    | Content Cell    | Content Cell    |
+|                    | FAFSA / WASFA   |                 | Content Cell    | Content Cell    | Content Cell    |
+|                    | Dreamers        |                 | Content Cell    | Content Cell    | Content Cell    |
+|                    |                 |                 | Content Cell    | Content Cell    | Content Cell    |
+|                    |                 |                 | Content Cell    | Content Cell    | Content Cell    |
+|                    |                 |                 | Content Cell    | Content Cell    | Content Cell    |
 
     
     
