@@ -7,72 +7,54 @@ Chrome Extensions
 
 - [AirDroid Notifier](https://chrome.google.com/webstore/detail/airdroid-notifier/imlonnilcaednlloaadgddbjfliioklh) - mirrors my android notifications to Chrome
 
--AngularJs Batarang - use to debug my Angular apps, built by the official Angular team @ Google
+- [AngularJs Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - use to debug my Angular apps, built by the official Angular team @ Google
 
--Awesome Screenshot - grab full or partial screenshots from inside Chrome, lets you annotate:
-https://chrome.google.com/webstore/detail/alelhddbbhepgpmgidjdcjakblofbmce
+- [Awesome Screenshot](https://chrome.google.com/webstore/detail/alelhddbbhepgpmgidjdcjakblofbmce) - grab full or partial screenshots from inside Chrome, lets you annotate:
 
--Boysenberry - inspector for CSS, built by someone in this group!
-https://chrome.google.com/webstore/detail/boysenberry/odddjldlndamcgopdfcnioipkbpcdphh
+- [Boysenberry](https://chrome.google.com/webstore/detail/boysenberry/odddjldlndamcgopdfcnioipkbpcdphh) - inspector for CSS, built by someone in the HH group!
 
--Chrome extension source viewer - lets you view and download the source for any Chrome extension:
-https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin
+- [Chrome extension source viewer](https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin) - lets you view and download the source for any Chrome extension
 
--Chrome Touch - fixes scrolling on Chrome for touch devices:
-https://chrome.google.com/webstore/detail/chrometouch/ncegfehgjifmmpnjaihnjpbpddjjebme
+- [Chrome Touch](https://chrome.google.com/webstore/detail/chrometouch/ncegfehgjifmmpnjaihnjpbpddjjebme) - fixes scrolling on Chrome for touch devices
 
--Clear Cache - clear your cache with a button, web devs rejoice!
-https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
+- [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) - clear your cache with a button, web devs rejoice!
 
--Cloud to Butt - replaces every instance of "cloud" with "butt" on every page you visit:
-https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai
 
--ColorPick Eyedropper - colorpicker for Chrome, lets you get the hex codes for colors and images on any page:
-https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
+- [Cloud to Butt](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai) - replaces every instance of "cloud" with "butt" on every page you visit:
 
--Download Master - downloads all links, images, videos etc on a web page:
-https://chrome.google.com/webstore/detail/download-master/mcceagdollnkjlogmdckgjakjapmkdjf
 
--HTTPS Everywhere - encrypt the web, enables HTTPS on many sites:
-https://www.eff.org/https-everywhere
+- [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) - colorpicker for Chrome, lets you get the hex codes for colors and images on any page:
 
--Imagus - enlarges images on hover:
-https://97e572bee9692acbd88571f49c074e24ffd9c03b.googledrive.com/host/0Bx8fnUCX4W2IUTNPT0s2eUFDQms/
 
--JSONView - validate and inspect JSON:
-https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc
+- [Download Master](https://chrome.google.com/webstore/detail/download-master/mcceagdollnkjlogmdckgjakjapmkdjf) - downloads all links, images, videos etc on a web page:
 
--Linkclump - open, copy, or bookmark multiple links at the same time:
-https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj
 
--MightyText - receive and send texts from Chrome:
-https://chrome.google.com/webstore/detail/mightytext-sms-text-messa/dkfhfaphfkopdgpbfkebjfcblcafcmpi
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) - encrypt the web, enables HTTPS on many sites
 
--Momentum - replaces new tab page with dope dashboard:
-https://chrome.google.com/webstore/detail/laookkfknpbbblfpciffpaejjkokdgca
+- [Imagus](https://97e572bee9692acbd88571f49c074e24ffd9c03b.googledrive.com/host/0Bx8fnUCX4W2IUTNPT0s2eUFDQms/) - enlarges images on hover
 
--Postman - REST client for testing APIs:
-https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - validate and inspect JSON
 
--Save as PDF - save a web page as a PDF in one click:
-https://chrome.google.com/webstore/detail/save-as-pdf/kpdjmbiefanbdgnkcikhllpmjnnllbbc
+- [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - open, copy, or bookmark multiple links at the same time
 
--Save to Pocket - save articles and pages for reading later:
-https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj
+- [MightyText](https://chrome.google.com/webstore/detail/mightytext-sms-text-messa/dkfhfaphfkopdgpbfkebjfcblcafcmpi) - receive and send texts from Chrome
 
--Screencastify - video capturing for chrome, has full screen capabilities:
-https://chrome.google.com/webstore/detail/mmeijimgabbpbgpdklnllpncmdofkcpn
+- [Momentum](https://chrome.google.com/webstore/detail/laookkfknpbbblfpciffpaejjkokdgca) - replaces new tab page with dope dashboard
 
--Temporary Site Blocker - helps to stay motivated, blocks selected pages:
-https://chrome.google.com/webstore/detail/kabepcbdhcianpnociimdhjhohkedacg
+- [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - REST client for testing APIs
 
--TooManyTabs - tab management:
-https://chrome.google.com/webstore/detail/amigcgbheognjmfkaieeeadojiibgbdp
+- [Save as PDF](https://chrome.google.com/webstore/detail/save-as-pdf/kpdjmbiefanbdgnkcikhllpmjnnllbbc) - save a web page as a PDF in one click
 
--Video Downloader - finds and downloads videos on a page:
-https://chrome.google.com/webstore/detail/elicpjhcidhpjomhibiffojpinpmmpil
+- [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj) - save articles and pages for reading later
 
--Window Resizer - resize browser window, good for testing responsiveness for web dev:
-https://chrome.google.com/webstore/detail/kkelicaakdanhinjdeammmilcgefonfh
+- [Screencastify](https://chrome.google.com/webstore/detail/mmeijimgabbpbgpdklnllpncmdofkcpn) - video capturing for chrome, has full screen capabilities
+
+- [Temporary Site Blocker](https://chrome.google.com/webstore/detail/kabepcbdhcianpnociimdhjhohkedacg) - helps to stay motivated, blocks selected pages
+
+- [TooManyTabs](https://chrome.google.com/webstore/detail/amigcgbheognjmfkaieeeadojiibgbdp) - tab management
+
+- [Video Downloader](https://chrome.google.com/webstore/detail/elicpjhcidhpjomhibiffojpinpmmpil) - finds and downloads videos on a page
+
+- [Window Resizer](https://chrome.google.com/webstore/detail/kkelicaakdanhinjdeammmilcgefonfh) - resize browser window, good for testing responsiveness for web dev
 
 Contributors: [Samuel Philip](https://github.com/ishmaelthedestroyer)
