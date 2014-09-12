@@ -6,32 +6,6 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 [![forthebadge](http://forthebadge.com/badges/oooo-kill-em.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/badges/certified-cousin-terio.svg)](http://forthebadge.com)
 
 ##### Topics So Far
-```
-/
-    Hackathons/
-        EventList.md
-        HackathonHackers.md
-    Programming/
-        Misc/
-            web-scraping.md
-        MobileDev/
-            Android.md
-            IOS.md
-            Windows.md
-        WebDev/
-            RubyOnRails.md
-            backend-webdev.md
-            examples.md
-            frontend-webdev.md
-        haskell.md
-        java.md
-        javascript.md
-        python.md
-        ruby.md
-    Scholarships/
-        scholarships.md
-
-```
 
 | Hackathons         | Scholarships    | Business        | Web Development | Mobile Development | Gen. Programming   |
 | :-------------:    | :-------------: | :-------------: | :-------------: | :-------------:    | :-------------:    |
@@ -44,7 +18,7 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 |                    | Dreamers        |                 |                 |                    |                    |
 |                    | General Guide   |                 |                 |                    |                    |
 |                    |                 |                 |                 |                    |                    |
-|                    |                 |                 |                 |                    |                    |
+
 
     
     
