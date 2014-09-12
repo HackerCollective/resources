@@ -7,17 +7,16 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 
 ##### Topics So Far
 
-| Hackathons         | General         | Business        | Web Development | Mobile Development | Gen. Programming   |
-| :-------------:    | :-------------: | :-------------: | :-------------: | :-------------:    | :-------------:    |
-| Hackathons list    |Chrome Extensions| Entrepreneurship| Frontend        | IOS                | Haskell            |
-| HH Wiki            |                 | Startups        | Backend         | Android            | Java               |
-| Code of Conduct    |                 | Investing       | Ruby on Rails   | Windows            | Python             |
-|                    |                 |                 | Javascript      |                    | Ruby               |
-|                    |                 |                 |                 |                    |                    |
-|                    |                 |                 |                 |                    |                    |
-|                    |                 |                 |                 |                    |                    |
-|                    |                 |                 |                 |                    |                    |
-|                    |                 |                 |                 |                    |                    |
+| Hackathons         | Scholarships    | General         | Business        | Web Development | Mobile Development | Gen. Programming   |
+| :-------------:    | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:    | :-------------:    |
+| Hackathons list    | High School     |Chrome Extensions| Entrepreneurship| Frontend        | iOS                | Haskell            |
+| HH Wiki            | College         |                 | Startups        | Backend         | Android            | Java               |
+| Code of Conduct    | Merit           |                 | Investing       | Ruby on Rails   | Windows            | Python             |
+|                    | Need Based      |                 |                 | Javascript      |                    | Ruby               |
+|                    | Loans           |                 |                 |                 |                    |                    |
+|                    | FAFSA / WASFA   |                 |                 |                 |                    |                    |
+|                    | Dreamers        |                 |                 |                 |                    |                    |
+|                    | General Guide   |                 |                 |                 |                    |                    |
 
 
     
