@@ -1,17 +1,13 @@
 Chrome Extensions
 ===================
 
--Adblock - self explanatory:
-https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk
+- [Adblock](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - self explanatory
 
--Adblock for YouTube - self explanatory:
-https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk
+- [Adblock for YouTube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - self explanatory
 
--AirDroid Notifier - mirrors my android notifications to Chrome:
-https://chrome.google.com/webstore/detail/airdroid-notifier/imlonnilcaednlloaadgddbjfliioklh
+- [AirDroid Notifier](https://chrome.google.com/webstore/detail/airdroid-notifier/imlonnilcaednlloaadgddbjfliioklh) - mirrors my android notifications to Chrome
 
--AngularJs Batarang - use to debug my Angular apps, built by the official Angular team @ Google:
-https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk
+-AngularJs Batarang - use to debug my Angular apps, built by the official Angular team @ Google
 
 -Awesome Screenshot - grab full or partial screenshots from inside Chrome, lets you annotate:
 https://chrome.google.com/webstore/detail/alelhddbbhepgpmgidjdcjakblofbmce
