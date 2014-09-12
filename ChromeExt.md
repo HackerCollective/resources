@@ -49,6 +49,8 @@ Chrome Extensions
 
 - [Screencastify](https://chrome.google.com/webstore/detail/mmeijimgabbpbgpdklnllpncmdofkcpn) - video capturing for chrome, has full screen capabilities
 
+- [tabShare](https://chrome.google.com/webstore/detail/tabshare/ikcecmegnphddcdkcdghpbkdjamadccp) - save & share all your tabs with 1 click.
+
 - [Temporary Site Blocker](https://chrome.google.com/webstore/detail/kabepcbdhcianpnociimdhjhohkedacg) - helps to stay motivated, blocks selected pages
 
 - [TooManyTabs](https://chrome.google.com/webstore/detail/amigcgbheognjmfkaieeeadojiibgbdp) - tab management
