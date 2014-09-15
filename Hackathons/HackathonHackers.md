@@ -17,7 +17,7 @@ With a community of 5,000+ individuals, Hackathon Hackers (HH), is a dynamic and
 
 ### [[⬆]](#toc) <a name='subgroups'>::: SUBGROUPS :::</a> 
 - [HH Coding](http://bit.ly/hhcoding)
-- [HH Connect](ttp://bit.ly/hhconnect)
+- [HH Connect](http://bit.ly/hhconnect)
 - [HH Constructive Debates](http://bit.ly/hhdebates)
 - [HH Design](http://bit.ly/hhdesigners)
 - [HH Freelance](http://bit.ly/hhfreelance)
