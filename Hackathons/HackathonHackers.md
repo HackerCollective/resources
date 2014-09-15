@@ -31,6 +31,6 @@ With a community of 5,000+ individuals, Hackathon Hackers (HH), is a dynamic and
 
 ::: REGIONAL SUBGROUPS :::
 - [HH California](http://bit.ly/hhcalifornia)
-- [HH Seattle]()
+- [HH Seattle](https://www.facebook.com/groups/808089029211525/)
 - [HH European Union](http://bit.ly/hheurope)
 - [HH Midwest](http://bit.ly/hhmidwest)
