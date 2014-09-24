@@ -19,7 +19,7 @@ A list of all the things you can get for free (or discounted) with a .edu email 
   - PhpStorm | IDE for Web & PHP
   - WebStorm | Smart JavaScript IDE
   - AppCode | Objective-C IDE
-- [Prezi]()
+- [Prezi](http://prezi.com/pricing/edu/)
 - [GitHub](https://education.github.com/)
 - [BitBucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp)
 
