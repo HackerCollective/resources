@@ -20,3 +20,10 @@ A list of all the things you can get for free (or discounted) with a .edu email 
   - WebStorm | Smart JavaScript IDE
   - AppCode | Objective-C IDE
 - [Prezi]()
+- [GitHub](https://education.github.com/)
+- [BitBucket]()
+
+## Discounted Thangs
+
+- [Rdio](https://www.rdio.com/account/discount/)
+- [Spotify](https://www.spotify.com/us/student/)
