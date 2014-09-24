@@ -5,8 +5,8 @@ A list of all the things you can get for free (or discounted) with a .edu email 
 
 ## Free Thangs
 
-- [Amazon Prime]()
-- [Autodesk]()
+- [Amazon Prime](http://www.amazon.com/gp/help/customer/display.html?nodeId=201133670)
+- [Autodesk](http://www.autodesk.com/education/free-software/all)
 - [Jet Brains](http://www.jetbrains.com/student/)
   - ReSharper | Productivity tool for .NET devs
   - dotTrace | .NET Performance Profiler
@@ -21,7 +21,7 @@ A list of all the things you can get for free (or discounted) with a .edu email 
   - AppCode | Objective-C IDE
 - [Prezi]()
 - [GitHub](https://education.github.com/)
-- [BitBucket]()
+- [BitBucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp)
 
 ## Discounted Thangs
 
