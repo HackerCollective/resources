@@ -5,7 +5,7 @@ A list of all the things you can get for free (or discounted) with a .edu email 
 
 
 - [Jet Brains](http://www.jetbrains.com/student/)
-  -ReSharper | Productivity tool for .NET devs
+  - ReSharper | Productivity tool for .NET devs
   - dotTrace | .NET Performance Profiler
   - dotCover | .NET Code Coverage Tool
   - dotMemory | .NET Memory Profiler
