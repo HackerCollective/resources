@@ -5,7 +5,7 @@ A list of all the things you can get for free (or discounted) with a .edu email 
 
 ## Free Thangs
 
-- [Amazon offers their premium Prime service free to students for a year]()
+- [Amazon Prime]()
 - [Autodesk]()
 - [Jet Brains](http://www.jetbrains.com/student/)
   - ReSharper | Productivity tool for .NET devs
