@@ -1,7 +1,7 @@
 A list of all the things you can get for free (or discounted) with a .edu email address
 
 
--[Jet Brains](http://www.jetbrains.com/student/)
+- [Jet Brains](http://www.jetbrains.com/student/)
   -ReSharper | Productivity tool for .NET devs
   - dotTrace | .NET Performance Profiler
   - dotCover | .NET Code Coverage Tool
