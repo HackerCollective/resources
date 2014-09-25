@@ -22,6 +22,8 @@ A list of all the things you can get for free (or discounted) with a .edu email 
 - [Prezi](http://prezi.com/pricing/edu/)
 - [GitHub](https://education.github.com/)
 - [BitBucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp)
+- [Lynda](http://www.lynda.com) (press Log In and type your .edu account into the appropriate areas)
+  - online training resource in software and business skills through video tutorials
 
 ## Discounted Thangs
 
