@@ -7,20 +7,7 @@ A list of all the things you can get for free (or discounted) with a .edu email 
 
 - [Amazon Prime](http://www.amazon.com/gp/help/customer/display.html?nodeId=201133670)
 - [Autodesk](http://www.autodesk.com/education/free-software/all)
-- [Jet Brains](http://www.jetbrains.com/student/)
-  - ReSharper | Productivity tool for .NET devs
-  - dotTrace | .NET Performance Profiler
-  - dotCover | .NET Code Coverage Tool
-  - dotMemory | .NET Memory Profiler
-  - IntelliJ IDEA | The most intelligent IDE for Java
-  - RubyMine | IDE for Ruby and Rails
-  - PyCharm | Powerful Python & Django IDE
-  - CLion | Cross-platform C/C++ IDE
-  - PhpStorm | IDE for Web & PHP
-  - WebStorm | Smart JavaScript IDE
-  - AppCode | Objective-C IDE
-- [Prezi](http://prezi.com/pricing/edu/)
-- [Namecheap Education Program](https://www.nc.me/) (free .me domain for a year)
+- [BitBucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp)
 - [GitHub](https://education.github.com/)
   - [Student Developer Pack](https://education.github.com/pack)
     - Bitnami (Business 3 plan for one year)
@@ -36,9 +23,23 @@ A list of all the things you can get for free (or discounted) with a .edu email 
     - stripe (Waived transaction fees on first $1000)
     - Travis CI (Private builds)
     - Unreal Engine
-- [BitBucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp)
-- [Lynda](http://www.lynda.com) (press Log In and type your .edu account into the appropriate areas)
-  - online training resource in software and business skills through video tutorials
+- [Jet Brains](http://www.jetbrains.com/student/)
+  - ReSharper | Productivity tool for .NET devs
+  - dotTrace | .NET Performance Profiler
+  - dotCover | .NET Code Coverage Tool
+  - dotMemory | .NET Memory Profiler
+  - IntelliJ IDEA | The most intelligent IDE for Java
+  - RubyMine | IDE for Ruby and Rails
+  - PyCharm | Powerful Python & Django IDE
+  - CLion | Cross-platform C/C++ IDE
+  - PhpStorm | IDE for Web & PHP
+  - WebStorm | Smart JavaScript IDE
+  - AppCode | Objective-C IDE
+- [Lynda](http://www.lynda.com) (Press 'Log In' and type your .edu account into the appropriate areas)
+  - Online training resource in software and business skills through video tutorials
+- [Microsoft DreamSpark](https://www.dreamspark.com/) (Free Microsoft software)
+- [Namecheap Education Program](https://www.nc.me/) (Free .me domain for a year)
+- [Prezi](http://prezi.com/pricing/edu/)
 
 ## Discounted Thangs
 
