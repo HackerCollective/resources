@@ -4,7 +4,7 @@ So, you wanna learn Java eh? Do you really know what Java is? Java is a computer
 
 
 - [Table of Contents](#awesome-java)
-    -[Tutorials](#tutorials)
+    - [Tutorials](#tutorials)
     - [Build Tool](#build-tool)
     - [Bytecode Manipulation](#bytecode-manipulation)
     - [Code Analysis](#code-analysis)
