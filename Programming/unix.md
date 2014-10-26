@@ -1,41 +1,47 @@
 Getting Started with UNIX
+=========================
 
-So what is UNIX anyways?  
+##So what is UNIX anyways?  
 
 Originally, Unix was meant to be a programmer's workbench to be used for developing software to be run on multiple platforms more than to be used to run application software. The system grew larger as the operating system started spreading in the academic circle, as users added their own tools to the system and shared them with colleagues.
 
 Unix was designed to be portable, multi-tasking and multi-user in a time-sharing configuration. Unix systems are characterized by various concepts: the use of plain text for storing data; a hierarchical file system; treating devices and certain types of inter-process communication (IPC) as files; and the use of a large number of software tools, small programs that can be strung together through a command line interpreter using pipes, as opposed to using a single monolithic program that includes all of the same functionality. These concepts are collectively known as the "Unix philosophy." Brian Kernighan and Rob Pike summarize this in The Unix Programming Environment as "the idea that the power of a system comes more from the relationships among programs than from the programs themselves."
 
-TLDR:
+####TLDR:
 UNIX, unlike other systems, is meant to be modular, many small programs that do one thing well.  All the config files are plaintext and there is no registry (thank god) which means easy editing and customizing.
 
 There are many "brands" of UNIX including Linux, FreeBSD, OS X, etc...  These are mostly separated by Kernels.  The kernel is a computer "program" that manages input/output requests from software, and translates them into data processing instructions for the central processing unit and other electronic components of a computer. The kernel is a fundamental part of a modern computer's operating system.  Linux is any UNIX system that uses the Linux kernel.  Android using the Linux kernel is most of their deployments and OS X used the FreeBSD kernel named Darwin.
 
-When someone says "Do you know NIX?" what do they mean?
+##When someone says "Do you know NIX?" what do they mean?
 
-NIX is what many people call the family of UNIX and UNIX-like systems.  "Knowing" a system is more then just know the language of the system, it is also about knowing the software architecture of the system and why it works like it does.  We learn all of this in the framework of BASH.
+NIX is what many people call the family of UNIX and UNIX-like systems.  "Knowing" a system is more then just knowing the language of the system, it is also about knowing the software architecture of the system and why it works like it does.  We learn all of this in the framework of BASH.
 
-Before we go any farther into NIX itself, lets get to know BASH.
+##Before we go any farther into NIX itself, lets get to know BASH.
 
 Bash is a Unix shell written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell (sh). Released in 1989, it has been distributed widely as the shell for the GNU operating system and as a default shell most NIX systems, including Linux and Mac OS X. 
 
 The name itself is an acronym, a pun, and a description. As an acronym, it stands for Bourne-again shell, referring to its objective as a free replacement for the Bourne shell. As a pun, it expressed that objective in a phrase that sounds similar to born again, a term for spiritual rebirth. The name is also descriptive of what it did, bashing together the features of sh, csh, and ksh.
 
 Terminal Time!
+==============
 
 You are encouraged to open up a terminal and follow along.  
-Learn though practice not memorization!
+<b>Learn though practice not memorization!</b>
 
-Lets start with 3 basic but very important BASH commands: ls, cd, and pwd.
+####Navigation
 
-cd and ls are fundamental in navigating the file structure of your system. 
+Lets start with 3 basic but very important BASH commands: `ls`, `cd <path>`, and `pwd`.
 
-ls lists all things in your current directory and cd, followed by a path, will take you into that directory.
+Both `cd` and `ls` are fundamental in navigating the file structure of your system. 
 
-If you need to know where you are just enter pwd to print your working directory.
+`ls` lists all things in your current directory and cd, followed by a path, will take you into that directory.
 
-To just go up one level in the file tree just enter cd .. .
+If you need to know where you are just enter pwd to print your current working directory (The one you are in right now).
 
+To go up one level in the file tree just enter `cd ..` .
+
+The `~` character, called a tilda, is a default variable in most UNIX shells and it represents the users home directory.
+To go home from anywhere, enter `cd ~` . On many systems the `cd` command with no path after it defaults to `cd ~` so the tilda is not always needed. I would reommend always using it as a beginner so that you get use to it, you will be using it in scripts later.  If you want to see what your home path is you can just `echo ~`.  
 _____________________________________________________________________________
 
 
