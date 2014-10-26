@@ -15,7 +15,7 @@ Python is also an interpreted language. This means that it is not converted to c
 
 ####[[⬆]](#toc)
 
-If you wanna dive straight into the programming and get your feet wet, dive into #1 [Team Tree House's](http://teamtreehouse.com/library/python-basics/upcoming) online interactive tool for learning. If you wanna start from scratch and work through the entire thing begin with #4 [Learning Python from Scratch](http://code.tutsplus.com/series/python-from-scratch--net-20566). If you're really a rebel, jump into #3, and do it like a boss, [the hard way.](http://learnpythonthehardway.org/)
+If you wanna dive straight into the programming and get your feet wet, dive into #1 [Team Tree House's](http://teamtreehouse.com/library/python-basics) online interactive tool for learning. If you wanna start from scratch and work through the entire thing begin with #4 [Learning Python from Scratch](http://code.tutsplus.com/series/python-from-scratch--net-20566). If you're really a rebel, jump into #3, and do it like a boss, [the hard way.](http://learnpythonthehardway.org/)
 
 ## [[⬆]](#toc) <a name='intro'>An Introduction to Python</a>
 1. [Python By Team Tree House](http://teamtreehouse.com/library/python-basics/upcoming) | If you're new to Python, this is the place to start. In this course, you'll take a look at some of the most common and important bits of the language, how to use them, and then put them together into several different handy scripts. Finally, you'll build a small console game using all of the stuff you've learned!
