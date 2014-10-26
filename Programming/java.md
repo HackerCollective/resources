@@ -4,6 +4,7 @@ So, you wanna learn Java eh? Do you really know what Java is? Java is a computer
 
 
 - [Table of Contents](#awesome-java)
+    -[Tutorials](#tutorials)
     - [Build Tool](#build-tool)
     - [Bytecode Manipulation](#bytecode-manipulation)
     - [Code Analysis](#code-analysis)
@@ -51,6 +52,13 @@ So, you wanna learn Java eh? Do you really know what Java is? Java is a computer
     - [Twitter](#twitter)
     - [Websites](#websites)
 - [Contributing](#contributing)
+
+## Tutorials
+- [Java Video Tutorial](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) 
+- [Java for Android Dev](https://www.coursera.org/course/androidapps101) | In this course, you will learn the fundamental computer science principles that power today’s apps. You will also create your own Android app using Java and standard software development tools.
+- [Oracle Java Tutorials](http://docs.oracle.com/javase/tutorial/reallybigindex.html)
+- [Effective Java Book *Paid*](http://www.amazon.com/dp/0321356683/?tag=stackoverfl08-20)
+- [Head First Java *Paid*](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208)
 
 ## Build Tool
 
