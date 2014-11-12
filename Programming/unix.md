@@ -7,7 +7,7 @@ Getting Started with UNIX
   2. [Bash Tutorials](#tutorial)
   3. [The UNIX Philosophy](#laws)
 
-## [[⬆]](#toc) <a name='intro'>ISoX anyways? /a>
+## [[⬆]](#toc) <a name='intro'>So what is UNIX anyways? /a>
 
 Originally, Unix was meant to be a programmer's workbench to be used for developing software to be run on multiple platforms more than to be used to run application software. The system grew larger as the operating system started spreading in the academic circle, as users added their own tools to the system and shared them with colleagues.
 
