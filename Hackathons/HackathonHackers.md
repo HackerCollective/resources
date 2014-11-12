@@ -9,11 +9,13 @@ With a community of 8,000+ individuals, Hackathon Hackers (HH), is a dynamic and
 
 # <a name='toc'>Table of Contents</a>
 
-  1. [Subgroups](#subgroups)
+  1. [Geeting Started](#start)
+  2. [Subgroups](#subgroups)
   
 
 ####[[⬆]](#toc)
 
+### [[⬆]](#toc) <a name='start'>::: Geeting  Started:::</a> 
 
 ### [[⬆]](#toc) <a name='subgroups'>::: SUBGROUPS :::</a> 
 - [HH Blog Posts:](http://bit.ly/hhblogposts)
@@ -37,8 +39,31 @@ With a community of 8,000+ individuals, Hackathon Hackers (HH), is a dynamic and
 - [HH Websites & Resumes:]( http://bit.ly/hhresumes)
 - [HH What Are You Working On?:]( http://bit.ly/hhwaywo)
 
-::: REGIONAL SUBGROUPS :::
-- [HH California](http://bit.ly/hhcalifornia)
-- [HH Seattle](https://www.facebook.com/groups/808089029211525/)
-- [HH European Union](http://bit.ly/hheurope)
-- [HH Midwest](http://bit.ly/hhmidwest)
+/** LANGUAGE SUBGROUPS **/
+- [HH Python:]( hh.gd/python)
+- [HH Ruby:]( hh.gd/ruby))
+- [HH λ:]( hh.gd/lambda)
+
+/** REGIONAL SUBGROUPS **/
+- [HH Canada:]( hh.gd/canada)
+- [HH California:]( hh.gd/cali)
+- [HH European Union:]( hh.gd/europe)
+- [HH Midwest:]( hh.gd/midwest)
+- [HH Seattle:]( hh.gd/seattle)
+
+/** HUMOR SUBGROUPS **/
+- [HH Circletwerk:]( hh.gd/circle)
+- [HH Snackathon Snackers:]( hh.gd/snackers)
+- [HH Stackathon Stackers:]( hh.gd/stackers)
+- [HH Hacker Problems:]( hh.gd/problems)
+- [Real Singles of HHCT:]( hh.gd/singles)
+
+/** RELATED **/
+- [High School Hackers:]( hh.gd/highschool)
+- [HS Offers:]( hh.gd/hsoffers)
+- [Ladies Storm Hackathons](: hh.gd/ladies))
+- [Latino Hackers:]( hh.gd/latino)
+- [Upcoming Hackathons:]( hh.gd/events)
+
+
+If you have a question or concern about a person or post in HH, please send a private message to the HH moderators: hh.gd/mods
