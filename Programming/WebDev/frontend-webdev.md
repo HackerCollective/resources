@@ -128,6 +128,7 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 6. [Tut+](http://tutsplus.com/)
 7. [Stack Overflow](http://stackoverflow.com/)
 8. [HTML5 and CSS3 For Dummies by Andy Harris:](http://www.amazon.com/HTML5-CSS3-All-One-Dummies/dp/1118289382)
+9. [JavaScript is sexy] (http://www.javascriptissexy.com/) | Complete resource for programming in Javascript.
 
 ### [[⬆]](#toc) <a name='online'> Getting Your Website Online:</a>
 ##### [[⬆]](#toc) <a name='dnrh'> Domain Name Registration + Hosting: (D + H)</a>
