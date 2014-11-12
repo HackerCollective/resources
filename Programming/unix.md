@@ -10,11 +10,34 @@ Unix was designed to be portable, multi-tasking and multi-user in a time-sharing
 ####TLDR:
 UNIX, unlike other systems, is meant to be modular, many small programs that do one thing well.  All the config files are plaintext and there is no registry (thank god) which means easy editing and customizing.
 
+<b>Homework</b>) Read this: http://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond.E2.80.99s_17_Unix_Rules
+
 There are many "brands" of UNIX including Linux, FreeBSD, OS X, etc...  These are mostly separated by Kernels.  The kernel is a computer "program" that manages input/output requests from software, and translates them into data processing instructions for the central processing unit and other electronic components of a computer. The kernel is a fundamental part of a modern computer's operating system.  Linux is any UNIX system that uses the Linux kernel.  Android using the Linux kernel is most of their deployments and OS X used the FreeBSD kernel named Darwin.
 
 ##When someone says "Do you know NIX?" what do they mean?
 
 NIX is what many people call the family of UNIX and UNIX-like systems.  "Knowing" a system is more then just knowing the language of the system, it is also about knowing the software architecture of the system and why it works like it does.  We learn all of this in the framework of BASH.
+
+##Why do I use it?
+1. It is free as in freedom. (In price as well)
+
+2. I can put my faith behind millions of coders and hackers on the internet rather than one company in the united states who can be manipulated by the government.
+
+3. UNIX package managers are badass.
+
+4. Incredibly hackable (in a good way).
+
+5. Window managers and desktop environments options.
+
+6. To be part of a powerful, very knowledgable community.
+
+7. Just by learning linux I am on the path to being a sysadmin and eventually makes lots of money to make sure servers don’t' crash.  (Sounds like hell to some but sounds awesome to me)
+
+8. I am addicted to distro hopping.
+
+9. I hate windows, its registry, powershell, and its anti-UNIX philosophy.
+
+10. Its Fun!
 
 ##Before we go any farther into NIX itself, lets get to know BASH.
 
