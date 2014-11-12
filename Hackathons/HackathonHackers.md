@@ -5,7 +5,7 @@ Hackathon Hackers
 
 This is the all-inclusive hackathons group.
 
-With a community of 5,000+ individuals, Hackathon Hackers (HH), is a dynamic and diverse programming focused on making dope shit, and changing the world. 
+With a community of 8,000+ individuals, Hackathon Hackers (HH), is a dynamic and diverse programming focused on making dope shit, and changing the world. 
 
 # <a name='toc'>Table of Contents</a>
 
