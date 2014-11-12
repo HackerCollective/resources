@@ -1,7 +1,13 @@
 Getting Started with UNIX
 =========================
 
-##So what is UNIX anyways?  
+## <a name='toc'>Table of Contents</a>
+
+  1. [An Introduction to UNIX](#intro)
+  2. [Bash Tutorials](#tutorial)
+  3. [The UNIX Philosophy](#laws)
+
+## [[⬆]](#toc) <a name='intro'>ISoX anyways? /a>
 
 Originally, Unix was meant to be a programmer's workbench to be used for developing software to be run on multiple platforms more than to be used to run application software. The system grew larger as the operating system started spreading in the academic circle, as users added their own tools to the system and shared them with colleagues.
 
@@ -10,7 +16,7 @@ Unix was designed to be portable, multi-tasking and multi-user in a time-sharing
 ####TLDR:
 UNIX, unlike other systems, is meant to be modular, many small programs that do one thing well.  All the config files are plaintext and there is no registry (thank god) which means easy editing and customizing.
 
-<b>Homework</b>) Read this: http://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond.E2.80.99s_17_Unix_Rules
+ http://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond.E2.80.99s_17_Unix_Rules
 
 There are many "brands" of UNIX including Linux, FreeBSD, OS X, etc...  These are mostly separated by Kernels.  The kernel is a computer "program" that manages input/output requests from software, and translates them into data processing instructions for the central processing unit and other electronic components of a computer. The kernel is a fundamental part of a modern computer's operating system.  Linux is any UNIX system that uses the Linux kernel.  Android using the Linux kernel is most of their deployments and OS X used the FreeBSD kernel named Darwin.
 
