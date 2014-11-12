@@ -41,7 +41,7 @@ With a community of 8,000+ individuals, Hackathon Hackers (HH), is a dynamic and
 
 /** LANGUAGE SUBGROUPS **/
 - [HH Python:]( hh.gd/python)
-- [HH Ruby:]( hh.gd/ruby))
+- [HH Ruby:]( hh.gd/ruby)
 - [HH λ:]( hh.gd/lambda)
 
 /** REGIONAL SUBGROUPS **/
@@ -61,7 +61,7 @@ With a community of 8,000+ individuals, Hackathon Hackers (HH), is a dynamic and
 /** RELATED **/
 - [High School Hackers:]( hh.gd/highschool)
 - [HS Offers:]( hh.gd/hsoffers)
-- [Ladies Storm Hackathons](: hh.gd/ladies))
+- [Ladies Storm Hackathons](: hh.gd/ladies)
 - [Latino Hackers:]( hh.gd/latino)
 - [Upcoming Hackathons:]( hh.gd/events)
 
