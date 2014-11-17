@@ -12,6 +12,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - Add a little of your own personality, we really want your flavor to enhance the reading of these guides. 
-- Please see [IOS Dev](https://github.com/HackathonHackers/resources/blob/gh-pages/Programming/MobileDev/IOS.md) for example of the flow, and [Python](https://github.com/HackathonHackers/resources/blob/gh-pages/Programming/python.md) for an example of the content.
+- Please see [IOS Dev](https://github.com/HackathonHackers/resources/blob/gh-pages/Programming/MobileDev/IOS.md) or [Android Dev](https://github.com/HackathonHackers/resources/blob/gh-pages/Programming/MobileDev/Android.md) for example of the flow, and [Python](https://github.com/HackathonHackers/resources/blob/gh-pages/Programming/python.md) for an example of the content.
 
 Thank you for your suggestions!
