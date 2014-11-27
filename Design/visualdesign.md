@@ -1,16 +1,17 @@
-Interaction Design
+Visual Design
 ====================
-Interaction Design is ... design for interactions. 
+Visual Design is ... design for things you see. 
 ## <a name='toc'>Table of Contents</a>
 
-  1. [Usability heuristics](#usabilityheur)
-  2. [Human factors](#humanfactors)
-  3. [Image](#userflows)
+  1. [Layout (grid)](#grid)
+  2. [Typography](#typography)
+  3. [Image](#image)
+  3. [Color](#color)
 
-## [[⬆]](#toc) <a name='usabilityheur'> Usability heuristics</a>
-## [[⬆]](#toc) <a name='humanfactors'> Human factors</a>
-## [[⬆]](#toc) <a name='userflows'> User flows</a>
-
+## [[⬆]](#toc) <a name='grid'> Layout (grid)</a>
+## [[⬆]](#toc) <a name='typography'> Typography</a>
+## [[⬆]](#toc) <a name='image'> Image</a>
+## [[⬆]](#toc) <a name='color'> Color</a>
 
 
 
