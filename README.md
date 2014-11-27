@@ -8,14 +8,18 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 ##### Topics So Far
 
 **Business**:[Entrepreneurship](), [Startups](), [Investing](), 
+
 **Hackathons**: [](), [](), [](), []()
+
 **Programming**:[Courses](),
     - [Functional Programming](): []()
     - [Game Development]():
     - [Mobile Development]():
     - [Object Oriented Programming]():
     - [Web Development]():
+    
 **Misc**: [Cool Chrome Extensions](), [Mac Environment Setup]()
+
 **Scholarships**: [ High School ](), [College ](), [Merit](), [Need Based](), [Loans](), [ FAFSA/WASFA](), [Dreamers]()
 
 
