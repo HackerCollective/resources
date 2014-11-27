@@ -12,11 +12,11 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 **Hackathons**: [](), [](), [](), []()
 
 **Programming**:[Courses](),
-    - [Functional Programming](): []()
-    - [Game Development]():
-    - [Mobile Development]():
-    - [Object Oriented Programming]():
-    - [Web Development]():
+- [Functional Programming](): []()
+- [Game Development]():
+- [Mobile Development]():
+- [Object Oriented Programming]():
+- [Web Development]():
     
 **Misc**: [Cool Chrome Extensions](), [Mac Environment Setup]()
 
