@@ -34,6 +34,7 @@ So, you wanna learn Javascript eh? Do you really know what Javascript is? JavaSc
     * [Voice Command](#voice-command)
     * [API](#api)
     * [Vision Detection](#vision-detection)
+    * [Generators](#generators)
   * UI
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
@@ -371,6 +372,11 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten.
+
+## Generators
+* [Yeoman](http://yeoman.io) - Scaffolding generator for modern web apps, similar to RoRs Thor i.e rails generate
+* [Regenrator](https://github.com/facebook/regenerator) - Facebooks ES6 -> ES5 code rewriter/generator
+* [Traceur](https://github.com/google/traceur-compiler) - Googles ES6 -> ES5 compiler
 
 ## Code highlighting
 
