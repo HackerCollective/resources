@@ -5,20 +5,25 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 
 [![forthebadge](http://forthebadge.com/badges/oooo-kill-em.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/badges/certified-cousin-terio.svg)](http://forthebadge.com)
 
-#### Topics So Far
+##### Topics So Far
 
-* **Business**:[Entrepreneurship](), [Startups](), [Investing](), 
-* **Hackathons**: [Event list](), [Code of Conduct](), [Wiki](), []()
-* **Programming**:
+**Business**:[Entrepreneurship](), [Startups](), [Investing]()
+
+**Design**:[Information Design](),[Interaction Design](), [Mobile Design](), [Motion Design](), [Prototyping](), [User Centered Design](), [User Interface Design](), [User Research](), [UX Design](), [Visual Design](), [Web Design]()
+
+**Hackathons**: [Event List](), [Wiki](), [](), []() 
+
+**Programming**:
     - [Functional Programming](): []()
     - [Game Development]():
     - [Mobile Development]():
     - [Object Oriented Programming]():
     - [Web Development]():
-* **Misc**: [Cool Chrome Extensions](), [Mac Environment Setup]()
-* **Scholarships**: [ High School ](), [College ](), [Merit](), [Need Based](), [Loans](), [ FAFSA/WASFA](), [Dreamers]()
+    
+**Misc**: [Cool Chrome Extensions](), [Mac Environment Setup]()
 
-***
+**Scholarships**: [ High School ](), [College ](), [Merit](), [Need Based](), [Loans](), [ FAFSA/WASFA](), [Dreamers]()
+
 
 <!--
 | Hackathons         | Scholarships    | General         | Business        | Web Development | Mobile Development | Gen. Programming   |
