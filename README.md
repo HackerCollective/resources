@@ -9,7 +9,7 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 
 * **Business**:[Entrepreneurship](), [Startups](), [Investing](), 
 * **Hackathons**: [Event list](), [Code of Conduct](), [Wiki](), []()
-* **Programming**:[Courses](),
+* **Programming**:
     - [Functional Programming](): []()
     - [Game Development]():
     - [Mobile Development]():
