@@ -30,7 +30,7 @@ If you wanna dive straight into the programming and get your feet wet, dive into
 10. [Think Python](http://www.greenteapress.com/thinkpython/) | Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters. You can even find some example code [here](http://www.greenteapress.com/thinkpython/code/)
 11. [Learning from the docs](https://www.python.org/about/gettingstarted/) | This right here is the source. The official docs of the open source community that make up python.
 
-## [[⬆]](#toc) <a name='tutorial'>Straigt Up Tutorial</a>
+## [[⬆]](#toc) <a name='tutorial'>Straight Up Tutorial</a>
 This series of tutorials is intended to help anyone learn to program in Python. If you are new to computers, however, you may benefit from the absolute beginner's tutorial: [How a Computer Looks at Your Program.](http://python.about.com/od/throughacomputerseye/ss/begprogramming.htm)
 
 Once you have [downloaded and installed](https://www.python.org/download/) Python for your platform or operating system, you will probably want to jump right into programming. Before you do, you should ensure that you are equipped with an editor you can live with and familiarize yourself with the basics of Python programming.
