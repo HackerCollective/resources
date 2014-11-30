@@ -9,6 +9,7 @@ Web Development, "is a mix of programming and layout that powers the visuals and
   1. [HTML](#html)
   1. [CSS ](#css)
   1. [Javascript ](#js)
+  1. [Concept](#concept)
   1. [Design ](#design)
   1. [Unit Testing ](#ut)
   1. [Frontend Build Tools](#fbt)
@@ -44,6 +45,8 @@ Web Development, "is a mix of programming and layout that powers the visuals and
 ### [[⬆]](#toc) <a name='html'>HTML:</a>
  HTML, is essentially the skeleton of your webpage, it is what builds the structure of your site / app.
 Tutorials / Guides
+
+1. [MDN](https://developer.mozilla.org/) Documentation and reference for HTML, CSS, and Javascript.
 
 
 ### [[⬆]](#toc) <a name='css'>CSS:</a>
@@ -85,21 +88,32 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
     7. [cheet.js](http://namuol.github.io/cheet.js/)
     8. [Headroom.js](http://wicky.nillia.ms/headroom.js/)
 
+### [[⬆]](#toc) <a name='concept'>Concept:</a>
+Useful sites for getting inspiration and ideas.
+
+1. [TheBestDesigns](http://www.thebestdesigns.com/)
+2. [MinimalSites](http://www.minimalsites.com/)
+3. [Httpster](http://httpster.net/)
+4. [Dribbble](https://dribbble.com/)
+
 ### [[⬆]](#toc) <a name='design'>Design:</a>
-1. [Dribbble](https://dribbble.com/)
-2. [0to255](http://0to255.com/)
+1. Color
+    1. [0to255](http://0to255.com/)
+    2. [Adobe Color](www.color.adobe.com)
+    3. [Spectral](http://jxnblk.com/Spectral/) | Emphasizes HSB
+2. Fonts
+    1. [Beautiful web type](http://hellohappy.org/beautiful-web-type/)
+    2. [Font Awesome](http://fortawesome.github.io/Font-Awesome/#)
+    3. [Fontello](http://fontello.com/)
+    4. [Typewolf](http://www.typewolf.com/open-source-web-fonts) | Open-source fonts.
 3. [CSSFlow](http://www.cssflow.com/)
 4. [Subtle Patterns](http://subtlepatterns.com/)
-5. [Beautiful web type](http://hellohappy.org/beautiful-web-type/)
 6. [UICloud](http://ui-cloud.com/)
 7. [PixelsDaily](http://pixelsdaily.com/)
 8. [Fribbble](http://fribbble.com/)
 9. [Flat UI](http://designmodo.github.io/Flat-UI/)
-10. [Font Awesome](http://fortawesome.github.io/Font-Awesome/#)
-11. [Fontello](http://fontello.com/)
 12. [Ionicons](http://ionicons.com/)
 13. [Canva](https://www.canva.com/)
-14. [Typewolf](http://www.typewolf.com/open-source-web-fonts) | Open-source fonts.
 
 ### [[⬆]](#toc) <a name='ut'>Unit Testing:</a>
 1. [Jasmine](http://jasmine.github.io/)
@@ -138,15 +152,16 @@ JavaScript provides interaction, functionality, and dynamic ability of your site
 4. [Award Space](http://www.awardspace.com/) (D+H) |
 5. [HostGator](http://www.hostgator.com/) (D+H) |
 6. [Just Host](http://www.justhost.com/) (D+H)
-7. [GitHub](https://github.com/) (H) | This is what I use for the majority of my hosting, and I’m cool + it’s free, but only for static sites, check [backend resources](https://github.com/mrcoven94/resources/blob/gh-pages/backend-webdev.md) (H) | for the more dynamic free options.
+7. [GitHub Pages](https://pages.github.com/) (H) | This is what I use for the majority of my hosting, and I’m cool + it’s free, but only for static sites, check [backend resources](https://github.com/mrcoven94/resources/blob/gh-pages/backend-webdev.md) (H) | for the more dynamic free options.
 8. [BitBucket](https://bitbucket.org/)
 9. [NodeJitsu](https://www.nodejitsu.com/) (H) | Primarily for Node.JS Applications
 10. [PythonAnyWhere](https://www.pythonanywhere.com/) (H) | Primarily for Python Applications
 11. [DigitalOcean](https://www.digitalocean.com/) (H) | Deploy a server in 60 seconds or less!
 
 ##### [[⬆]](#toc) <a name='ftp'> FTP :</a>
-1. [CyberDuck](https://cyberduck.io/?l=en) |
-2. [Firezilla](https://filezilla-project.org/) |
+1. [CyberDuck](https://cyberduck.io/?l=en)
+2. [Firezilla](https://filezilla-project.org/)
+3. [FTP on Terminal](http://www.tldp.org/HOWTO/FTP-3.html)
 
 ### [[⬆]](#toc) <a name='github'> Using Github:</a>
 1. [Read This Article First (Programming Way of Setting Up Your Site, using Git)](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-2. beginners-part-1#awesm=~ozMC4gq6eTfUby)
