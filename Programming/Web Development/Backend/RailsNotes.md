@@ -43,6 +43,19 @@ $ heroku create
 git push heroku master
 ```
 
+Rename Heroku App
+
+```
+heroku apps:rename newname
+```
+And then you should see the following in your command line
+
+```
+Renaming oldname to newname... done
+http://newname.herokuapp.com/ | git@herokuapp.com:newname.git
+Git remote heroku updated
+```
+
 #### initialize  & Push to Git repo
 ```git
 $ git init
