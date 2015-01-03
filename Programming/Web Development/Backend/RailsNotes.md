@@ -40,13 +40,13 @@ $ heroku keys:add
 Creating a new application at Heroku.
 ```
 $ heroku create
-git push heroku master
+$ git push heroku master
 ```
 
 Rename Heroku App
 
 ```
-heroku apps:rename newname
+$ heroku apps:rename newname
 ```
 And then you should see the following in your command line
 
@@ -54,6 +54,11 @@ And then you should see the following in your command line
 Renaming oldname to newname... done
 http://newname.herokuapp.com/ | git@herokuapp.com:newname.git
 Git remote heroku updated
+```
+
+Sometimes you may get an error saying that it cannot find the app, and that you have to specify. In this case run ```--app APP```. For example I want to rename my app from **whispering-peak-4146** to **recommend-coven**. To do this I run the following.
+```
+$ heroku apps:rename recommend-coven --app whispering-peak-4146
 ```
 
 #### initialize  & Push to Git repo
