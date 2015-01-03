@@ -1,11 +1,9 @@
-#Frontend Web Dev
+Frontend Web Dev
 ===============================
+
 Web Development, "is a mix of programming and layout that powers the visuals and interactions of the web."--[Nick Schaden](https://blog.generalassemb.ly/what-is-front-end-web-development/)
 
 Frontend web development is all about client side interaction. Thankfully thare are a ton of tools to help us build beautiful web pages, validate, and much more.
-
-In this guide
-
 
 ## Intro
 
