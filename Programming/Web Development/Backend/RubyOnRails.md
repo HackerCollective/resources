@@ -29,6 +29,8 @@ The first question we must always ask is, what and why? What the hell is Rails, 
 5. [University of Texas Rails Course](http://www.schneems.com/ut-rails/)
 6. [University of Reddit - Rails](http://ureddit.com/class/40250/web-programming-with-ruby-on-rails)
 
+### Rails Books
+1. [Agile Web Development with Rails ](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
 
 Need to incorporate
 
