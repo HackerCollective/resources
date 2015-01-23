@@ -4,6 +4,12 @@ These are [David Coven's](github.com/mrcoven94) person notes as derived from Mic
 ```ruby
 rails s -p $PORT -b $IP
 ```
+#### Adding Image with Paperclip 
+After you fill in the paperclip gem, and run bundle install, make sure ImageMagick is installed via
+
+```git
+sudo apt-get install imagemagick  
+```
 
 #### Configure Git
 ```git
