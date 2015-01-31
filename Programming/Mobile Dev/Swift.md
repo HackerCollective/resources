@@ -80,6 +80,7 @@ Awesome Swift
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A chinese written guide for swift.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - A well explained list of feature in flux for swift
 * [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich swift guide, a must read.
+* [Stanford iOS 8 course](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford's next iteration of its popular iOS development course, in Swift.
 
 
 
