@@ -19,6 +19,7 @@ Getting Started with IOS
 8. If you need a backend for your app but don't have experience, a tool called [parse](https://www.parse.com) allows you to easily integrate a backend with your app so you can focus on the client-side. It handles login, signup and data storage. It's pretty awesome.
 
 ## Objective-C
+- [Ry's Objective-C Tutorial] (http://rypress.com/tutorials/objective-c/index) Good place to learn more about the various aspects of Objective-C language.
 
 ## Swift
 - [Program in Swift, w/o a Mac](http://swiftstub.com/)
