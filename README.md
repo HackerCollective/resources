@@ -7,22 +7,22 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 
 #### Topics So Far
 
-* **Business**: [Entrepreneurship](), [Startups](), [Investing]()
+* **Business**: [Entrepreneurship](https://github.com/HackerCollective/resources/blob/gh-pages/Business/Entrepreneurship/README.md), [Startups](), [Investing](https://github.com/HackerCollective/resources/blob/gh-pages/Business/Investing/README.md)
 
-* **Design**: [Information Design](),[Interaction Design](), [Mobile Design](), [Motion Design](), [Prototyping](), [User Centered Design](), [User Interface Design](), [User Research](), [UX Design](), [Visual Design](), [Web Design]()
+* **Design**: [Information Design](https://github.com/HackerCollective/resources/blob/gh-pages/Design/informationdesign.md),[Interaction Design](https://github.com/HackerCollective/resources/blob/gh-pages/Design/interactiondesign.md), [Mobile Design](https://github.com/HackerCollective/resources/blob/gh-pages/Design/mobiledesign.md), [Motion Design](https://github.com/HackerCollective/resources/blob/gh-pages/Design/motiondesign.md), [Prototyping](https://github.com/HackerCollective/resources/blob/gh-pages/Design/prototyping.md), [User Centered Design](https://github.com/HackerCollective/resources/blob/gh-pages/Design/usercentereddesign.md), [User Interface Design](https://github.com/HackerCollective/resources/blob/gh-pages/Design/userinterfacedesign.md), [User Research](https://github.com/HackerCollective/resources/blob/gh-pages/Design/userresearch.md), [UX Design](https://github.com/HackerCollective/resources/blob/gh-pages/Design/uxdesign.md), [Visual Design](https://github.com/HackerCollective/resources/blob/gh-pages/Design/visualdesign.md), [Web Design](https://github.com/HackerCollective/resources/blob/gh-pages/Design/webdesign.md)
 
-* **Hackathons**: [Event List](), [Wiki](), [Code of Conduct]() 
+* **Hackathons**: [Event List](https://github.com/HackerCollective/resources/blob/gh-pages/Hackathons/EventList.md), [Wiki](), [Code of Conduct](https://github.com/HackerCollective/resources/blob/gh-pages/Hackathons/CodeofConduct.md) 
 
 * **Programming**:
-     - [Functional Programming](): []()
-     - [Game Development]():
-     - [Mobile Development]():
-     - [Object Oriented Programming]():
-     - [Web Development]():
+     - [Functional Programming](https://github.com/HackerCollective/resources/tree/gh-pages/Programming/Functional): []()
+     - [Game Development](https://github.com/HackerCollective/resources/blob/gh-pages/Programming/Game%20Dev/GameDev.md):
+     - [Mobile Development](https://github.com/HackerCollective/resources/tree/gh-pages/Programming/Mobile%20Dev):
+     - [Object Oriented Programming](https://github.com/HackerCollective/resources/tree/gh-pages/Programming/Object%20Oriented):
+     - [Web Development](https://github.com/HackerCollective/resources/tree/gh-pages/Programming/Web%20Development):
     
-* **Misc**: [Cool Chrome Extensions](), [Mac Environment Setup]()
+* **Misc**: [Cool Chrome Extensions](https://github.com/HackerCollective/resources/blob/gh-pages/Programming/ChromeExt.md), [Mac Environment Setup](https://github.com/HackerCollective/resources/blob/gh-pages/Programming/mac-environment.md)
 
-* **Scholarships**: [ High School ](), [College ](), [Merit](), [Need Based](), [Loans](), [ FAFSA/WASFA](), [Dreamers]()
+* **Scholarships**: [ High School ](https://github.com/HackerCollective/resources/tree/gh-pages/School/Scholarships), [College ](https://github.com/HackerCollective/resources/tree/gh-pages/School/Scholarships), [Merit](https://github.com/HackerCollective/resources/tree/gh-pages/School/Scholarships), [Need Based](https://github.com/HackerCollective/resources/tree/gh-pages/School/Scholarships), [Loans](https://github.com/HackerCollective/resources/tree/gh-pages/School/Scholarships), [ FAFSA/WASFA](https://github.com/HackerCollective/resources/tree/gh-pages/School/Scholarships), [Dreamers](https://github.com/HackerCollective/resources/tree/gh-pages/School/Scholarships)
 ***
 
 
