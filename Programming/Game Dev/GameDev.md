@@ -139,7 +139,7 @@ Graphics
 * [MagicaVoxel](http://voxel.codeplex.com/)
 * [Paint3D](http://www.paint3d.net/)
 * [Q-Block](http://kyucon.com/qblock/)
-* [Qubicle Constructor](http://www.minddesk.com/qubicle_constructor.php)
+* [Qubicle Constructor](http://www.qubicle-constructor.com/)
 * [Sproxel](http://sproxel.blogspot.com.br/)
 * [VoxelShop](http://blackflux.com/node/11)
 

@@ -121,7 +121,7 @@ Useful sites for getting inspiration and ideas.
 ### [[⬆]](#toc) <a name='ut'>Unit Testing:</a>
 1. [Jasmine](http://jasmine.github.io/)
 2. [Karma](http://karma-runner.github.io/0.12/index.html)
-3. [Mocha](http://visionmedia.github.io/mocha/)
+3. [Mocha](http://mochajs.org/)
 4. [Chai](http://chaijs.com/)
 5. [PhantomJS](http://phantomjs.org/)
 6. [QUnit](http://qunitjs.com/)
@@ -167,7 +167,7 @@ Useful sites for getting inspiration and ideas.
 3. [FTP on Terminal](http://www.tldp.org/HOWTO/FTP-3.html)
 
 ### [[⬆]](#toc) <a name='github'> Using Github:</a>
-1. [Read This Article First (Programming Way of Setting Up Your Site, using Git)](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-2. beginners-part-1#awesm=~ozMC4gq6eTfUby)
+1. [Read This Article First (Programming Way of Setting Up Your Site, using Git)](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~ozMC4gq6eTfUby)
 3. [Hosting Personal]()
 4. [Hosting Multiple Project Sites Tutorials: Video](http://www.youtube.com/watch?v=J8RLq9LXFXk)
 5. [Github markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
