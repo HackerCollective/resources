@@ -466,8 +466,7 @@ layout.footer.add(new Surface({
 Layouts will fill the size of its parent modifier or context. In our example it fills the size of our main context.
 
 
-#### [Polaroid Slideshow](https://github.com/mrcoven94/notes/tree/gh-pages/FamoUs%20Framework)
-#### [Demos](http://famo.us/demos/)
+#### [Demos](http://famous.org/)
 #### [Guides](https://github.com/Famous/famous/tree/master/guides)
   * animations
   * events

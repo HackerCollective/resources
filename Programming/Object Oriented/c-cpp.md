@@ -90,7 +90,7 @@ C/C++
 
 * [btsk](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. [zlib]
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]
-* [Neu](https://github.com/andrometa/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications. [BSD]
+* [Neu](https://github.com/dardevelin/neu) - A C++ 11 framework, collection of programming languages, and multipurpose software system designed for: the creation of artificial intelligence applications. [BSD]
 
 ## Asynchronous Event Loop
 
@@ -395,7 +395,7 @@ C/C++
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [Serial Communication Library](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT]
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
-* [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver. [GPLv2/Commercial]
+* [SLDR](https://github.com/CesiumComputer/sldr) - Super Light DNS Resolver. [GPLv2/Commercial]
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regular Expression library. [GPLv2/Commercial]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPLv2]
 * [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]

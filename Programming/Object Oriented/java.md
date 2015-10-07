@@ -240,7 +240,7 @@ So, you wanna learn Java eh? Do you really know what Java is? Java is a computer
 * [Apache Hadoop](http://hadoop.apache.org/) - Open-source software framework for storage and large-scale processing of data-sets on clusters of commodity hardware.
 * [Apache Mahout](https://mahout.apache.org/) - Scalable algorithms focused on collaborative filtering, clustering and classification.
 * [Apache Spark](http://spark.apache.org/) - Open-source data analytics cluster computing framework.
-* [h2o](http://0xdata.github.io/h2o/) - Analytics engine for statistics over big data.
+* [h2o](https://github.com/h2oai/h2o-3) - Analytics engine for statistics over big data.
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Collection of algorithms for data mining tasks ranging from pre-processing to visualization.
 
 ## Messaging

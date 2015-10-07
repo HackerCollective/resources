@@ -53,7 +53,6 @@ Graphics
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects.
-* [Openstock Project](http://www.openstockproject.com/) - Modern 2D vector style game assets for indie developers, students, hobbyists & professionals – free personal & commercial licences.
 * [PlainTextures](http://www.plaintextures.com/)
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
 * [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
@@ -140,7 +139,7 @@ Graphics
 * [MagicaVoxel](http://voxel.codeplex.com/)
 * [Paint3D](http://www.paint3d.net/)
 * [Q-Block](http://kyucon.com/qblock/)
-* [Qubicle Constructor](http://www.minddesk.com/qubicle_constructor.php)
+* [Qubicle Constructor](http://www.qubicle-constructor.com/)
 * [Sproxel](http://sproxel.blogspot.com.br/)
 * [VoxelShop](http://blackflux.com/node/11)
 
