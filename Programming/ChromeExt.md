@@ -9,8 +9,6 @@ Chrome Extensions
 
 - [AngularJs Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - use to debug my Angular apps, built by the official Angular team @ Google
 
-- [Awesome Screenshot](https://chrome.google.com/webstore/detail/alelhddbbhepgpmgidjdcjakblofbmce) - grab full or partial screenshots from inside Chrome, lets you annotate:
-
 - [Boysenberry](https://chrome.google.com/webstore/detail/boysenberry/odddjldlndamcgopdfcnioipkbpcdphh) - inspector for CSS, built by someone in the HH group!
 
 - [Chrome extension source viewer](https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin) - lets you view and download the source for any Chrome extension
