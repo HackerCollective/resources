@@ -40,8 +40,14 @@ Personal dump of resources. I've had a lot of fun these past two years, and thro
 -->
 
 
-    
-    
+### Checking for Broken Links
+
+To check for invalid links, run `./checklinks.py`. This will then provide a list of files, and the URLs that *may* be invalid. Note that there may be false positives - please double check any reported URLs before removing them!
+
+Note: while testing, the script ran for ~100s, but depending on connection speed YMMV. Please bear with it.
+
+You will need `python2` and `git` to run this script, as well as the python packages `python2-termcolor`, `python2-regex` and `python2-pycurl`, which can be installed via `pip install termcolor regex pycurl`.
+
 ### Contributing
 Please refer to our [Contributing Doc](https://github.com/mrcoven94/resources/blob/gh-pages/CONTRIBUTING.md), before anything so that we can have consistency, and high quality content. Feel free to open up issues, send pull request, etc.
 
