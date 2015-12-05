@@ -14,7 +14,10 @@ These plugins are easily managed if you download [Sketch Toolbox](sketchtoolbox.
  6. [CSS Layouts In Sketch](https://www.youtube.com/watch?v=EmXXzvrz_vs&index=6&list=PLLnpHn493BHHUZe9bihv37Z6CyXBTyb-9) Allows you to use CSS rules including flexboxe properties to control your layouts. See the [rules](https://github.com/hrescak/Sketch-Flex-Layout)
  
 
+### Fonts
+Paste the following code to download all of the google fonts onto your computer (~500mb)
 
+```curl https://raw.githubusercontent.com/qrpike/Web-Font-Load/master/install.sh | sh```
 
 #### Using Sketch Measure
 - Measuring circles. Create overlay over your element that is measured using ```ctrl + shift + 1``` Particularly if you are measuring the distance between circles, as they take up squares in the DOM. 
@@ -28,9 +31,11 @@ These plugins are easily managed if you download [Sketch Toolbox](sketchtoolbox.
 
 #### CSS Layouts In Sketch
 - to activate press ``` ctrl + cmd + L```
-- 
+ 
 
 ### Shortcuts
+- Create Artboard ``` a```
 - Duplicate: ``` CMD +D ```
+- Turn element into folder: ``` CMD +g ```
 - Text Box: ``` t```
 - Oval: ```o```
