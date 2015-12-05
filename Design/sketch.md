@@ -25,3 +25,12 @@ These plugins are easily managed if you download [Sketch Toolbox](sketchtoolbox.
 - Labels: Maybe you have multiple elements overlayed, like a play button. Play buttons often have a circle and a triangle, which may have different properties. If you want to turn text into a label so you can easily differentiate your measures, first create some text, select that text and then press ```ctrl + shift + 5```
 - Hide measures: Maybe you want to go back into design mode. ```ctrl + shift + H``` to toggle the measures into hidden. 
 - Lock Measures in place: ```ctrl + shift + L``` to lock your measures where they are on the page so that you don't accidently select and move them.
+
+#### CSS Layouts In Sketch
+- to activate press ``` ctrl + cmd + L```
+- 
+
+### Shortcuts
+- Duplicate: ``` CMD +D ```
+- Text Box: ``` t```
+- Oval: ```o```
