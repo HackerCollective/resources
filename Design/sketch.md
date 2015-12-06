@@ -12,6 +12,7 @@ These plugins are easily managed if you download [Sketch Toolbox](sketchtoolbox.
  4. [Better Distributing With Sketch Distributor](https://www.youtube.com/watch?v=BzZKMQe1qQk&list=PLLnpHn493BHHUZe9bihv37Z6CyXBTyb-9&index=4) This allows you to select some items and distribute these layers, and specify the distance between these layers. Instead of simply equally distributing them it will distribute them at a given distance apart. For instance, if you're making a list and want the item each to be 20px a part, distributor allows you to do it easily!
  5. [Better Pasting In Sketch](https://www.youtube.com/watch?v=xv511oaJo0g&list=PLLnpHn493BHHUZe9bihv37Z6CyXBTyb-9&index=5) Fixes some of the inherent issues with Sketch's copy and pasting. ```ctrl + v```
  6. [CSS Layouts In Sketch](https://www.youtube.com/watch?v=EmXXzvrz_vs&index=6&list=PLLnpHn493BHHUZe9bihv37Z6CyXBTyb-9) Allows you to use CSS rules including flexboxe properties to control your layouts. See the [rules](https://github.com/hrescak/Sketch-Flex-Layout)
+ 7. [Dynamic Artboard Mirroring With Magic Mirror](https://www.youtube.com/watch?v=Gm5wPXOgVtM&list=PLLnpHn493BHHUZe9bihv37Z6CyXBTyb-9&index=9)
  
 
 ### Fonts
