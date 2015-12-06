@@ -33,7 +33,7 @@ Paste the following code to download all of the google fonts onto your computer 
 - to activate press ``` ctrl + cmd + L```
  
 
-### Shortcuts
+### [Shortcuts](http://sketchshortcuts.com/)
 - Create Artboard ``` a```
 - Duplicate: ``` CMD +D ```
 - Turn element into folder: ``` CMD +g ```
