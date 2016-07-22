@@ -2,6 +2,7 @@
 Getting Started with R for Statistical Programming
 ============================
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/ages-12.svg)](http://forthebadge.com)
 
 So you wanna learn R eh? Well, what is R?
 
