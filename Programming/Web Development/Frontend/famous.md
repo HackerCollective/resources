@@ -15,7 +15,7 @@ These are my notes, take em' or leave em. These are not *approved* specification
   3. [Creating Animations](#zen)
   4. [Handling Events]()
 
-### [[⬆]](#toc) <a name='intro'>Developing Content/a>
+### [[⬆]](#toc) <a name='intro'>Developing Content</a>
 
 #### Developing Content
 Famous has a rendering engine that displays content to the DOM.  One of the type of rendering is called **surface**, which maps to a ```<div>``` element in the DOM
