@@ -14,7 +14,7 @@ So you wanna learn R eh? Well, what is R?
 
 
 ## [[⬆]](#toc) <a name='intro'>An Introduction to R</a>
-1. [Try R -- Code School](http://tryr.codeschool.com/) | If you're new to Python, this is the place to start. In this course, you'll take a look at some of the most common and important bits of the language, how to use them, and then put them together into several different handy scripts. Finally, you'll build a small console game using all of the stuff you've learned!
+1. [Try R -- Code School](http://tryr.codeschool.com/) | If you're new to R, this is the place to start. In this course, you'll take a look at some of the most common and important bits of the language, how to use them, and then put them together into several different handy functions, and analysis patterns.
 
 ## [[⬆]](#toc) <a name='intro'>Notes</a>
 ### <a name='toc'>Notes TOC</a>
@@ -36,6 +36,48 @@ Grouping values into vectors, then doing arithmetic and graphs with them
 
 ### [[⬆]](#toc) <a name='matrices'>Matricies</a>
 Matrices: Creating and graphing two-dimensional data sets
+
+```javascript
+var firstSurface = new Surface({
+  content: 'hello world',
+  properties: {
+    color: 'white',
+    textAlign: 'center',
+    backgroundColor: '#FA5C4F'
+  }
+});
+
+mainContext.add(firstSurface);
+```
+
+To make your surface a particular **size**  you must add it to your surface object. If you do not specify, the surface inherits the size of its parent--the context.
+```javascript
+var firstSurface = new Surface({
+  size: [200, 400],
+  content: 'hello world',
+  properties: {
+    color: 'white',
+    textAlign: 'center',
+    backgroundColor: '#FA5C4F'
+  }
+});
+
+mainContext.add(firstSurface);
+```
+##### Surface Size:
+- In pixels with [x, y]
+- In only one dimension with [undefined, y] or [x, undefined]. For example,  [undefined, 200] will span the entire length of the x-direction, while only 200 pixles in the y direction. [, ] also works. 
+- Have the surface auto-size according to the content with [true, true]. You can put in any statement that evaluates to [true, true]. For example, [1>3, 1>3], [false, false], and [null, null] all work.
+
+
+
+
+
+
+
+
+
+
 
 
 ### [[⬆]](#toc) <a name='summaryStat'>Summary Statistics</a>
