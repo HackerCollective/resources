@@ -20,12 +20,20 @@ So you wanna learn R eh? Well, what is R?
 ## [[⬆]](#toc) <a name='tutorial'>Tutorial It Up </a>
 
 ## [[⬆]](#toc) <a name='intro'>Notes</a>
-## <a name='toc'>Table of Contents</a>
-  1. [R Syntax: A gentle introduction to R expressions, variables, and functions](#intro)
-  2. [Vectors: Grouping values into vectors, then doing arithmetic and graphs with them](#tutorial)
-  3. [Matrices: Creating and graphing two-dimensional data sets](#notes)
-  4. [Summary Statistics: Calculating and plotting some basic statistics: mean, median, and standard deviation](#notes)
-  5. [Factors: Creating and plotting categorized data](#)
-  6. [Data Frames: Organizing values into data frames, loading frames from files and merging them](#)
-  7. [Working With Real-World Data: Testing for correlation between data sets, linear models and installing additional packages](#)
-###
+### <a name='toc'>Notes TOC</a>
+  1. [R Syntax: A gentle introduction to R expressions, variables, and functions](#syntax)
+  2. [Vectors: Grouping values into vectors, then doing arithmetic and graphs with them](#vectors)
+  3. [Matrices: Creating and graphing two-dimensional data sets](#matrices)
+  4. [Summary Statistics: Calculating and plotting some basic statistics: mean, median, and standard deviation](#summaryStat)
+  5. [Factors: Creating and plotting categorized data](#factors)
+  6. [Data Frames: Organizing values into data frames, loading frames from files and merging them](#dataFrames)
+  7. [Working With Real-World Data: Testing for correlation between data sets, linear models and installing additional packages](#realWorldData)
+
+### [[⬆]](#toc) <a name='syntax'>Developing Content</a>
+### [[⬆]](#toc) <a name='vectors'>Developing Content</a>
+### [[⬆]](#toc) <a name='syntax'>Developing Content</a>
+### [[⬆]](#toc) <a name='syntax'>Developing Content</a>
+### [[⬆]](#toc) <a name='syntax'>Developing Content</a>
+### [[⬆]](#toc) <a name='syntax'>Developing Content</a>
+### [[⬆]](#toc) <a name='syntax'>Developing Content</a>
+
