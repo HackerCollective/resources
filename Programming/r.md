@@ -42,11 +42,26 @@ Matrices: Creating and graphing two-dimensional data sets
 
 #### Matrix Plotting
 
-We'll create a 10 by 10 matrix with all its values initialized to 1 for you:
+Generate a 10 by 10 matrix named elevation with all its values initialized to 1:
 
 ```R
 > elevation <- matrix(1, 10, 10)
 ```
+
+You can now do a contour map of the values simply by passing the matrix to the contour function:
+```R
+> contour(elevation)
+```
+Or you can create a 3D perspective plot with the persp function:
+
+```R
+persp(elevation)
+```
+The perspective plot will look a little odd, though. This is because persp automatically expands the view so that your highest value (the beach surface) is at the very top.
+```R
+persp(elevation, expand=.2)
+```
+
 
 To make your surface a particular **size**  you must add it to your surface object. If you do not specify, the surface inherits the size of its parent--the context.
 ```javascript
