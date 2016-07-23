@@ -40,17 +40,12 @@ Grouping values into vectors, then doing arithmetic and graphs with them
 ### [[⬆]](#toc) <a name='matrices'>Matricies</a>
 Matrices: Creating and graphing two-dimensional data sets
 
-```javascript
-var firstSurface = new Surface({
-  content: 'hello world',
-  properties: {
-    color: 'white',
-    textAlign: 'center',
-    backgroundColor: '#FA5C4F'
-  }
-});
+#### Matrix Plotting
 
-mainContext.add(firstSurface);
+We'll create a 10 by 10 matrix with all its values initialized to 1 for you:
+
+```R
+> elevation <- matrix(1, 10, 10)
 ```
 
 To make your surface a particular **size**  you must add it to your surface object. If you do not specify, the surface inherits the size of its parent--the context.
