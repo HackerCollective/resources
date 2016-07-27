@@ -227,4 +227,8 @@ Testing for correlation between data sets, linear models and installing addition
 Straight to business
 
 - **Mean**: mean(vector) , produces average of all vectors
--
+| Function        | Call           | Description  |
+| ------------- |:-------------:| -----:|
+| mean    | mean(vector)| takes avg of vector data |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
