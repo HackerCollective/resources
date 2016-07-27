@@ -161,6 +161,58 @@ deviation <- sd(pounds)
 
 Often your data needs to be grouped by category: blood pressure by age range, accidents by auto manufacturer, and so forth. R has a special collection type called a factor to track these categorized values.
 
+#### Creating Factors
+***
+It's time to take inventory of the ship's hold. We'll make a vector for you with the type of booty in each chest.
+
+To categorize the values, simply pass the vector to the factor function:
+
+RedoComplete
+```R
+> chests <- c('gold', 'silver', 'gems', 'gold', 'gems')
+> types <- factor(chests)
+```
+There are a couple differences between the original vector and the new factor that are worth noting. Print the chests vector:
+
+```R
+> print(chests)
+[1] "gold"   "silver" "gems"   "gold"   "gems"
+```
+You see the raw list of strings, repeated values and all. Now print the types factor:
+
+```R
+> print(types)
+[1] gold   silver gems   gold   gems  
+Levels: gems gold silver
+```
+Printed at the bottom, you'll see the factor's "levels" - groups of unique values. Notice also that there are no quotes around the values. That's because they're not strings; they're actually integer references to one of the factor's levels.
+
+Let's take a look at the underlying integers. Pass the factor to the ```as.integer``` function:
+```R
+> as.integer(types)
+[1] 2 3 1 2 1
+```
+You can get only the factor levels with the **levels** function:
+
+#### Plots With Factors
+***
+You can use a factor to separate plots into categories. Let's graph our five chests by weight and value, and show their type as well. We'll create two vectors for you; weights will contain the weight of each chest, and prices will track how much the chests are worth.
+
+Now, try calling plot to graph the chests by weight and value.
+```R
+> weights <- c(300, 200, 100, 250, 150)
+> prices <- c(9000, 5000, 12000, 7500, 18000)
+> plot(weights, prices)
+```
+We can't tell which chest is which, though. Fortunately, we can use different plot characters for each type by converting the factor to integers, and passing it to the **pch** argument of **plot**.
+
+```R
+ plot(weights, prices, pch=as.integer(types))
+```
+
+"Circle", "Triangle", and "Plus Sign" still aren't great descriptions for treasure, though. Let's add a legend to show what the symbols mean.
+
+
 
 
 
