@@ -99,15 +99,23 @@ Calculating and plotting some basic statistics: mean, median, and standard devia
 Simply throwing a bunch of numbers at your audience will only confuse them. Part of a statistician's job is to explain their data. In this chapter, we'll show you some of the tools R offers to let you do so, with minimum fuss.
 
 #### Mean
+***
 Determining the health of the crew is an important part of any inventory of the ship. Here's a vector containing the number of limbs each member has left, along with their names.
 ```R
 limbs <- c(4, 3, 4, 3, 2, 4, 4, 4)
 names(limbs) <- c('One-Eye', 'Peg-Leg', 'Smitty', 'Hook', 'Scooter', 'Dan', 'Mikey', 'Blackbeard')
 ```
 
-A quick way to assess our battle-readiness would be to get the average of the crew's appendage counts. Statisticians call this the "mean". Call the mean function with the ```limbs``` vector. To do this we employ our call function ```mean(limbs)```. The mean of the aformentioned data would be *3.5*
+A quick way to assess our battle-readiness would be to get the average of the crew's appendage counts. Statisticians call this the "mean". Call the mean function with the ```limbs``` vector. To do this we employ our call function ```mean(limbs)```. The mean of the aformentioned data would be **3.5**
 
-Now, to visually represent this data we can pull it into  a bar chart via the following
+Now, to visually represent this data we can pull it into  a bar chart via ```barplot(limbs)```. 
+
+To make our data set clearer we can we draw a line on the plot representing the mean. The **abline** function can take an *h* parameter with a value at which to draw a horizontal line, or a v parameter for a vertical line. When it's called, it updates the previous plot.
+
+Draw a horizontal line 
+```R
+abline(h = mean(limbs))
+```
 
 ### [[⬆]](#toc) <a name='factors'>Factors</a>
 Factors: Creating and plotting categorized data
