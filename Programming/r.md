@@ -107,6 +107,8 @@ names(limbs) <- c('One-Eye', 'Peg-Leg', 'Smitty', 'Hook', 'Scooter', 'Dan', 'Mik
 
 A quick way to assess our battle-readiness would be to get the average of the crew's appendage counts. Statisticians call this the "mean". Call the mean function with the ```limbs``` vector. To do this we employ our call function ```mean(limbs)```. The mean of the aformentioned data would be *3.5*
 
+Now, to visually represent this data we can pull it into  a bar chart via the following
+
 ### [[⬆]](#toc) <a name='factors'>Factors</a>
 Factors: Creating and plotting categorized data
 
@@ -117,3 +119,7 @@ Data Frames: Organizing values into data frames, loading frames from files and m
 ### [[⬆]](#toc) <a name='realWorldData'>Working With Real-World Data: </a>
 Testing for correlation between data sets, linear models and installing additional packages
 
+<script type="text/javascript" src="//api.filestackapi.com/filestack.js"></script>
+
+<input type="filepicker" data-fp-apikey="AzdDJg6OPRbil7ZRpeY9iz"
+onchange="alert(event.fpfile.url)">
