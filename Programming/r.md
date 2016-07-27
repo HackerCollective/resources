@@ -117,6 +117,40 @@ Draw a horizontal line
 abline(h = mean(limbs))
 ```
 
+#### Median
+***
+The median is calculated by sorting the values and choosing the middle one (for sets with an even number of values, the middle two values are averaged). This can help if we're intrepreting data that hold outliers that may skew our data set. 
+
+For example, Let's say we gain a crew member that completely skews the mean.
+```R
+> limbs <- c(4, 3, 4, 3, 2, 4, 4, 14)
+> names(limbs) <- c('One-Eye', 'Peg-Leg', 'Smitty', 'Hook', 
+                    'Scooter', 'Dan', 'Mikey', 'Davy Jones')
+> mean(limbs)
+[1] 4.75
+```
+While we can say we have our crew has a mean of 4.75 limbs, it's not entirely accurate. For this, median to the rescue. 
+
+Call the median function on the vector:
+```R
+median(limbs)
+```
+This gives us a median of 4, which is a much more realistic view our our data set. 
+
+#### Standard Deviation
+***
+Statisticians use the concept of **"standard deviation"** from the mean to describe the range of typical values for a data set. For a group of numbers, it shows how much they typically vary from the average value. To calculate the standard deviation, you calculate the mean of the values, then subtract the mean from each number and square the result, then average those squares, and take the square root of that average.
+
+If that sounds like a lot of work, don't worry. You're using R, and all you have to do is pass a vector to the sd function. Try calling sd on the pounds vector now, and assign the result to the deviation variable:
+
+Now to the example!
+Some of the plunder from our recent raids has been worth less than what we're used to. Here's a vector with the values of our latest hauls:
+
+```R
+> pounds <- c(45000, 50000, 35000, 40000, 35000, 45000, 10000, 15000)
+> barplot(pounds)
+> meanValue <- mean(pounds)
+```
 ### [[⬆]](#toc) <a name='factors'>Factors</a>
 Factors: Creating and plotting categorized data
 
