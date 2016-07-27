@@ -151,8 +151,17 @@ Some of the plunder from our recent raids has been worth less than what we're us
 > barplot(pounds)
 > meanValue <- mean(pounds)
 ```
+
+Creating the deviation variable:
+```R
+deviation <- sd(pounds)
+```
 ### [[⬆]](#toc) <a name='factors'>Factors</a>
-Factors: Creating and plotting categorized data
+#### Creating and plotting categorized data
+
+Often your data needs to be grouped by category: blood pressure by age range, accidents by auto manufacturer, and so forth. R has a special collection type called a factor to track these categorized values.
+
+
 
 
 ### [[⬆]](#toc) <a name='dataFrames'>Data Frames </a>
@@ -161,7 +170,9 @@ Data Frames: Organizing values into data frames, loading frames from files and m
 ### [[⬆]](#toc) <a name='realWorldData'>Working With Real-World Data: </a>
 Testing for correlation between data sets, linear models and installing additional packages
 
-<script type="text/javascript" src="//api.filestackapi.com/filestack.js"></script>
+## Appendix
+***
+Straight to business
 
-<input type="filepicker" data-fp-apikey="AzdDJg6OPRbil7ZRpeY9iz"
-onchange="alert(event.fpfile.url)">
+- **Mean**: mean(vector) , produces average of all vectors
+-
