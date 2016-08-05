@@ -219,6 +219,10 @@ We can't tell which chest is which, though. Fortunately, we can use different pl
 ### [[⬆]](#toc) <a name='dataFrames'>Data Frames </a>
 Data Frames: Organizing values into data frames, loading frames from files and merging them
 
+The **weights**, **prices**, and **types** data structures are all deeply tied together, if you think about it. If you add a new weight sample, you need to remember to add a new price and type, or risk everything falling out of sync. To avoid trouble, it would be nice if we could tie all these variables together in a single data structure.
+
+Fortunately, R has a structure for just this purpose: the data frame. You can think of a data frame as something akin to a database table or an Excel spreadsheet. It has a specific number of columns, each of which is expected to contain values of a particular type. It also has an indeterminate number of rows - sets of related values for each column.
+
 ### [[⬆]](#toc) <a name='realWorldData'>Working With Real-World Data: </a>
 Testing for correlation between data sets, linear models and installing additional packages
 
