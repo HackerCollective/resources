@@ -275,6 +275,55 @@ The merge function takes arguments with an **x** frame (**targets**) and a **y**
 merge(x = targets, y = infantry)
 ```
 
+### Notes
+R can test for correlation between two vectors with the ```cor.test``` function. 
+
+```R
+cor.test(countries$GDP, countries$Piracy)
+```
+```R
+> cor.test(countries$GDP, countries$Piracy)
+
+	Pearson's product-moment correlation
+
+data:  countries$GDP and countries$Piracy 
+t = -14.8371, df = 107, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0 
+95 percent confidence interval:
+ -0.8736179 -0.7475690 
+sample estimates:
+       cor 
+-0.8203183 
+```
+The key result we're interested in is the **"p-value"**. Conventionally, any correlation with a p-value less than **0.05** is considered statistically significant, and this sample data's p-value is definitely below that threshold. In other words, yes, these data do show a statistically significant negative correlation between GDP and software piracy.
+
+We have more countries represented in our GDP data than we do our piracy rate data. If we know a country's GDP, can we use that to estimate its piracy rate?
+
+We can, if we calculate the linear model that best represents all our data points (with a certain degree of error). The **lm** function takes a model formula, which is represented by a response variable (piracy rate), a tilde character (**~**), and a predictor variable (GDP). (Note that the response variable comes first.)
+
+Try calculating the linear model for piracy rate by GDP, and assign it to the line variable:
+
+```R
+line <- lm(countries$Piracy ~ countries$GDP)
+```
+Sort of like a trend line! We can now plot it by calling our handy dandy abline!
+```R
+abline(line)
+```
+
+#### 
+The functionality we've shown you so far is all included with R by default. (And it's pretty powerful, isn't it?) But in case the default installation doesn't include that function you need, there are still more libraries available on the servers of the Comprehensive R Archive Network, or CRAN. They can add anything from new statistical functions to better graphics capabilities. Better yet, installing any of them is just a command away.
+
+Let's install the popular ggplot2 graphics package. Call the install.packages function with the package name in a string:
+
+```R
+> install.packages("ggplot2")
+```R
+You can get help for a package by calling the help function and passing the package name in the package argument. Try displaying help for the "ggplot2" package:
+
+```R
+help(package = "ggplot2")
+```
 ## Appendix
 ***
 Straight to business
