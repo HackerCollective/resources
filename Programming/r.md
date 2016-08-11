@@ -27,7 +27,6 @@ Feel free to share this guide! [http://bit.ly/learn-r](http://bit.ly/learn-r)
   4. [Summary Statistics: Calculating and plotting some basic statistics: mean, median, and standard deviation](#summaryStat)
   5. [Factors: Creating and plotting categorized data](#factors)
   6. [Data Frames: Organizing values into data frames, loading frames from files and merging them](#dataFrames)
-  7. [Working With Real-World Data: Testing for correlation between data sets, linear models and installing additional packages](#realWorldData)
 
 ### [[⬆]](#toc) <a name='syntax'>R Syntax
 A gentle introduction to R expressions, variables, and functions
@@ -223,16 +222,60 @@ The **weights**, **prices**, and **types** data structures are all deeply tied t
 
 Fortunately, R has a structure for just this purpose: the data frame. You can think of a data frame as something akin to a database table or an Excel spreadsheet. It has a specific number of columns, each of which is expected to contain values of a particular type. It also has an indeterminate number of rows - sets of related values for each column.
 
-### [[⬆]](#toc) <a name='realWorldData'>Working With Real-World Data: </a>
-Testing for correlation between data sets, linear models and installing additional packages
+#### Data Frame Access
+
+Just like matrices, it's easy to access individual portions of a data frame.
+
+You can get individual columns by providing their index number in double-brackets. Try getting the second column (prices) of treasure:
+```R
+treasure[[2]]
+```
+You could instead provide a column name as a string in double-brackets. (This is often more readable.) Retrieve the "weights" column:
+
+```R
+> treasure[["weights"]]
+[1] 300 200 100 250 150
+```
+**Shorthand for Dataframes**
+Typing all those brackets can get tedious, so there's also a shorthand notation: the data frame name, a dollar sign, and the column name (without quotes). Try using it to get the "prices" column:
+
+```R
+treasure$prices
+```
+
+#### Loading Data Frames
+
+Typing in all your data by hand only works up to a point, obviously, which is why R was given the capability to easily load data in from external files.
+
+You can load a CSV file's content into a data frame by passing the file name to the read.csv function. Try it with the "targets.csv" file:
+```R
+read.csv("targets.csv")
+```
+
+For files that use separator strings other than commas, you can use the ```read.table``` function. The **sep** argument defines the separator character, and you can specify a tab character with **"\t"**.
+
+Call ```read.table``` on "infantry.txt", using tab separators:
+
+```R
+read.table("infantry.txt", sep="\t")
+```
+
+In this case you'll get "V1" and "V2" column headers. The first line is not automatically treated as column headers with ```read.table```. This behavior is controlled by the header argument. To fix this, you can call  ```read.table``` and set the header to TRUE:
+```R
+read.table("infantry.txt", sep="\t", header=TRUE)
+```
+#### Merging Data Frames
+We want to loot the city with the most treasure and the fewest guards. Right now, though, we have to look at both files and match up the rows. It would be nice if all the data for a port were in one place...
+
+R's merge function can accomplish precisely that. It joins two data frames together, using the contents of one or more columns. First, we're going to store those file contents in two data frames for you, **targets** and **infantry**.
+
+The merge function takes arguments with an **x** frame (**targets**) and a **y** frame (**infantry**). By default, it joins the frames on columns with the same name (the two Port columns). See if you can merge the two frames:
+
+```R
+merge(x = targets, y = infantry)
+```
 
 ## Appendix
 ***
 Straight to business
 
-- **Mean**: mean(vector) , produces average of all vectors
-|Function        | Call           | Description  |
-| ------------- |:-------------:| -----:|
-| mean    | mean(vector)| takes avg of vector data |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
