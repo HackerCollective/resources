@@ -390,6 +390,6 @@ Error in seq.default(from = 2, to - 5, by = 0.25) : object 'to' not found
 [24] 4.50 4.75 5.00 2.00 2.25 2.50 2.75 3.00 3.25 3.50 3.75 4.00 4.25 4.50 4.75 5.00
 > 
 ```
-You can see that I orginally had an error due to putting t = 5, and not to = 5. 
+You can see that I orginally had an error due to putting t = 5, and not to = 5.
 
 
