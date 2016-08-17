@@ -327,4 +327,69 @@ help(package = "ggplot2")
 ## Appendix
 ***
 Straight to business
+# Notes
+#### Plating with Variables 
+```R
+x = 11
+> x
+[1] 11
+> print(x)
+[1] 11
+> rm(x)
+> x <- 192
+> y = 9
+> sqrt(y)
+[1] 3
+> exp(y)
+[1] 8103.084
+> e^y
+Error: object 'e' not found
+> log(y)
+[1] 2.197225
+> y^y^y
+[1] Inf
+> y^y
+[1] 387420489
+> y^(sqrt(y))
+[1] 729
+> x = 11
+> rm(y)
+```
+#### Creating Vectors, Matricies, Sequences 
+```R
+> x1 <- x(1,3,5,6,9)
+Error: could not find function "x"
+> x1 <- c(1,3,5,6,9)
+> gender <- c("male", "female")
+```
+Creating a sequence from 2 to 7
+```R
+> 2:7
+[1] 2 3 4 5 6 7
+```
+Creating a sequence with specified indexing. 
+```R
+> seq(from=1, to=7, by=.25)
+ [1] 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+[10] 3.25 3.50 3.75 4.00 4.25 4.50 4.75 5.00 5.25
+[19] 5.50 5.75 6.00 6.25 6.50 6.75 7.00
+> rep(1, times=10)
+ [1] 1 1 1 1 1 1 1 1 1 1
+> rep(1:3. times=5)
+Error: unexpected symbol in "rep(1:3. times"
+> rep(1:3, times=5)
+ [1] 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3
+ ```
+ 
+ Repeating a sequence x number of times
+ ```R
+  rep(seq(from=2, to-5, by=.25), times=3)
+Error in seq.default(from = 2, to - 5, by = 0.25) : object 'to' not found
+> rep(seq(from=2, to=5, by=.25), times=3)
+ [1] 2.00 2.25 2.50 2.75 3.00 3.25 3.50 3.75 4.00 4.25 4.50 4.75 5.00 2.00 2.25 2.50 2.75 3.00 3.25 3.50 3.75 4.00 4.25
+[24] 4.50 4.75 5.00 2.00 2.25 2.50 2.75 3.00 3.25 3.50 3.75 4.00 4.25 4.50 4.75 5.00
+> 
+```
+You can see that I orginally had an error due to putting t = 5, and not to = 5. 
+
 
