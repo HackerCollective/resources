@@ -457,4 +457,104 @@ Setting byrow = FALSE produces a matrix, now set up by a column fashion
 > 
 ```
 
+```R
+> mat <- matrix(c(1,2,3,4,5,6,7,8,9), nrow=3, byrow=TRUE)
+> mat
+     [,1] [,2] [,3]
+[1,]    1    2    3
+[2,]    4    5    6
+[3,]    7    8    9
+> mat[1,2]
+[1] 2
+> #first row second column
+> 
+> mat[c(1,3), 2]
+[1] 2 8
+> #extracted everything in row 1/3 and column 2
+> mat[2]
+[1] 4
+> mat[2,]
+[1] 4 5 6
+> #extract all columns in row 2
+> mat[,1]
+[1] 1 4 7
+> #extracting everything in row one
+```
+
+> ### How to import from excel into r
+> #save as a csv or a txt
+> #can ask for help with a function via help(read.csv) or ?read.csv
+> 
+> 
+> data1 <-read.csv(file.choose(),header=T)
+> #using file.choose() allows you to choose the document via a pop up
+> # instead of having to type the file path
+> #header = T or header = TRUE, tells R that there are headers in the first row
+> 
+> 
+> data1
+   LungCap Age Height Smoke Gender Caesarean
+1    6.475   6   62.1    no   male        no
+2   10.125  18   74.7   yes female        no
+3    9.550  16   69.7    no female       yes
+4   11.125  14   71.0    no   male        no
+5    4.800   5   56.9    no   male        no
+6    6.225  11   58.7    no female        no
+7    4.950   8   63.3    no   male       yes
+8    7.325  11   70.4    no   male        no
+9    8.875  15   70.5    no   male        no
+10   6.800  11   59.2    no   male        no
+> # we can see that R has properly read our data
+> 
+> 
+> # We can also pull in files via the read.table method
+> data2 <- read.table(file.choose(), header=T, sep=",")
+> # this way we can read in other delineated types of values
+> 
+> data2
+   LungCap Age Height Smoke Gender Caesarean
+1    6.475   6   62.1    no   male        no
+2   10.125  18   74.7   yes female        no
+3    9.550  16   69.7    no female       yes
+4   11.125  14   71.0    no   male        no
+5    4.800   5   56.9    no   male        no
+6    6.225  11   58.7    no female        no
+7    4.950   8   63.3    no   male       yes
+8    7.325  11   70.4    no   male        no
+9    8.875  15   70.5    no   male        no
+10   6.800  11   59.2    no   male        no
+> 
+> 
+> #Now we're going to read in a tab delimited text file
+> data3 <- read.delim(file.choose(), header=T)
+> data3
+   LungCap Age Height Smoke Gender Caesarean
+1    6.475   6   62.1    no   male        no
+2   10.125  18   74.7   yes female        no
+3    9.550  16   69.7    no female       yes
+4   11.125  14   71.0    no   male        no
+5    4.800   5   56.9    no   male        no
+6    6.225  11   58.7    no female        no
+7    4.950   8   63.3    no   male       yes
+8    7.325  11   70.4    no   male        no
+9    8.875  15   70.5    no   male        no
+10   6.800  11   59.2    no   male        no
+> 
+> 
+> #can also do it with the read.table command
+> data4 <- read.table(file.choose(), header=T, sep="\t")
+> # we had to specify the special character \t for tab
+> data4
+   LungCap Age Height Smoke Gender Caesarean
+1    6.475   6   62.1    no   male        no
+2   10.125  18   74.7   yes female        no
+3    9.550  16   69.7    no female       yes
+4   11.125  14   71.0    no   male        no
+5    4.800   5   56.9    no   male        no
+6    6.225  11   58.7    no female        no
+7    4.950   8   63.3    no   male       yes
+8    7.325  11   70.4    no   male        no
+9    8.875  15   70.5    no   male        no
+10   6.800  11   59.2    no   male        no
+
 
