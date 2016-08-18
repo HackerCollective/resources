@@ -713,5 +713,3 @@ Error in levels(smoke) : object 'smoke' not found
 0 1 
 6 3 
 
-
-### Logic Statements (TRUE/FALSE) and cbind and rbind Command in R 
