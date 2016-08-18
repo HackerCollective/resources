@@ -558,3 +558,160 @@ Setting byrow = FALSE produces a matrix, now set up by a column fashion
 10   6.800  11   59.2    no   male        no
 ```
 
+```R
+> #Reading larger data sets and working with data
+> rm(data1)
+> rm(data2)
+> rm(data3)
+> rm(data4)
+> rm(mat)
+> rm(gender)
+> data1 <- read.table(file.choose(), header=T, sep="\t")
+> find dimension of data
+Error: unexpected symbol in "find dimension"
+> # find dimension of data
+> dim(data1)
+[1] 725   6
+> head(data1)
+  LungCap Age Height Smoke Gender Caesarean
+1   6.475   6   62.1    no   male        no
+2  10.125  18   74.7   yes female        no
+3   9.550  16   69.7    no female       yes
+4  11.125  14   71.0    no   male        no
+5   4.800   5   56.9    no   male        no
+6   6.225  11   58.7    no female        no
+> #shows the first siz rows
+> tail(data1)
+    LungCap Age Height Smoke Gender Caesarean
+720   7.325   9   66.3    no   male        no
+721   5.725   9   56.0    no female        no
+722   9.050  18   72.0   yes   male       yes
+723   3.850  11   60.5   yes female        no
+724   9.825  15   64.9    no female        no
+725   7.100  10   67.7    no   male        no
+> #shows the last 6 rows
+> 
+> 
+> data1[c(5,6,7,8,8), ]
+    LungCap Age Height Smoke Gender Caesarean
+5     4.800   5   56.9    no   male        no
+6     6.225  11   58.7    no female        no
+7     4.950   8   63.3    no   male       yes
+8     7.325  11   70.4    no   male        no
+8.1   7.325  11   70.4    no   male        no
+> # we can also use the colon! 
+> data1[5:0,]
+  LungCap Age Height Smoke Gender Caesarean
+5   4.800   5   56.9    no   male        no
+4  11.125  14   71.0    no   male        no
+3   9.550  16   69.7    no female       yes
+2  10.125  18   74.7   yes female        no
+1   6.475   6   62.1    no   male        no
+> names(data1) #this should give us the headers
+[1] "LungCap"   "Age"       "Height"    "Smoke"     "Gender"    "Caesarean"
+```
+### Working with variables and Data in R
+> mean(Age)
+Error in mean(Age) : object 'Age' not found
+> # this is because R does not recognize age as it is part of the object data1
+> # we can extract it by using the $ to parse our object
+> 
+> mean(data1$Age)
+[1] 12.3269
+> 
+> # we can use the dollar sign to extract variables, or we can attach the data
+> 
+> 
+> attach(data1)
+> # now r recognizes the headers as variables
+> mean(Age)
+[1] 12.3269
+> # we can unattach using detach command
+> detach(data1)
+> age
+Error: object 'age' not found
+> # we can re attach it to make it easier
+> attach(data1)
+> Age
+  [1]  6 18 16 14  5 11  8 11 15 11 19 17 12 10 10 13 15  8 11 14  6  8 16 11 11 12 12  9  4 18  4 13 13 13 12 10  6  9 11
+ [40] 17 14 17  8 12  6 11 11 12 17  7 15 15 11 10 18  6 13 19  9 12 12 14  9 13 13 13 11 11 11 12 14 11 11 13 13 12 14  9
+ [79] 17 11 12 16 17 19 14 12 19 11 15 19  9 14 13 14 19 18 16  7 16 10 13 14 13 16 16  5 16 12  7  7 15 18  8  3 15 15  7
+[118] 18  8 17 16 12 17 16 19 12 17 19 12 12 15 17 13 12 16 13 15 15 14 13  6 18 18 18  9 17 14 14 14  3 11  8  9  8 16  7
+[157] 11  5 16 11 16 10 12 19  7  8 13 17  9  8 15  6 14 10 17 15 10 16 17 17 13 17 15 16 18 10 16  8 14  4 17 15 10 13 16
+[196] 17 19 11  8 12 13 16 15 18  8  5 10  8 13  7 11 15 10 15  8  7 10 18 15 19 14  3  6 12 14  8 15  5  3 11 11 13 18 19
+[235] 15 18  8 11 17 14 12 14  8 12 11  6  9 11 18 18 19  9 18  9  7  8 18 11 12 11 14 14  5 12 19  9 17 10  9  9 10 14 14
+[274] 12 17 10 12 13 11 12 17 14 15  8 13 11 10  6 10 18  6 18  3 15 13 19 11 13  5  8 18 13 10 18 12  9 15 14  8 19  7 13
+[313] 14 19  9 12 10  3 13 16 13 10 15 11 11 19 15 11 19  8  7 10 13 14 14  9 11 13 15 18 15 13  9  8  7 17 11 12  9 14  8
+[352] 16 17  9 12 19 17 15 12  7  8 15 18 11 10  9 11 16 16 18 16 10 13 16 18  9 13 11  5  6 12  9 15 13 16 18 11 13  7  4
+[391] 13 16 17 10 11  7 11 16 13  8  3 12 15  8  4 13  7 15 15 18  7 13 18 19 10  6 13 14 15  5 12 17  8 12 12 12  7 19 17
+[430] 16  6 12  6  6 14 15  7 14 16 11  9 19 17 15 13  5 11 11 10 13 10  9 15 13 17  5 14 10 13  8 17 13 10 10 16  5 15 11
+[469] 12 19 10 18 13 15 16 17 14  9 16 16 16 16 12 16  7 18  4 19 11 15  8 15  5  6 19 14 14  7 15 13  9 13 18  5 14  7 18
+[508] 17 14 13 11 12 18  3 14  9 10  9 15 14 16 12  9 13 15 11  6 12 17 12  3 12  7 12  8  9 15 11 15 12  9 10  6 12 14 15
+[547]  8 19 12  7 17  7 12 13 15 15  6 13 19 12  9 17 19 10 12 14 12 18  5 19 17 13  9  7 16 16 17 17 18  7  7 12 12  8  8
+[586] 14 11 17 13 13 15  5 10 15 11  3  6  7 12 14 13 19 15 14  7 16 16 16  7  7 16 15 12  6 11 13 15 13 18 15  3 16 12 12
+[625]  5 12 14  6 19  9 11 10  7 16  5  8 15 10 10 13 18 12 13 19 10 19 16 13 13 14  9  8 10 13 12  6 14 18 14  3 16 10 12
+[664] 10 16 10  8 10  5  8  8 18  6 10 14 17 18 14 14 10 13 18 11 15 19 16 16 15  8  7 12 10 13  7 13 14  9 16 15 13 10 14
+[703] 12  7 15 19 15 12 15 10 17  5  3 14 16 19 11 16 17  9  9 18 11 15 10
+> 
+> 
+> names(data1)
+[1] "LungCap"   "Age"       "Height"    "Smoke"     "Gender"    "Caesarean"
+> class(data1)
+[1] "data.frame"
+> class(Age)
+[1] "integer"
+> class(Height)
+[1] "numeric"
+> class(Smoke)
+[1] "factor"
+> class(gender)
+Error: object 'gender' not found
+> 
+> class(gender)
+Error: object 'gender' not found
+> # these classify what type of object each of our classes in our data is, whether integer or factor, or data.frame
+> 
+> 
+> levels(smoke)
+Error in levels(smoke) : object 'smoke' not found
+> levels(Smoke)
+[1] "no"  "yes"
+> levels(Gender)
+[1] "female" "male"  
+> #levesl gives us a quick breakdown of the different types of data
+> 
+> 
+> summary(data1)
+    LungCap            Age            Height      Smoke        Gender    Caesarean
+ Min.   : 0.507   Min.   : 3.00   Min.   :45.30   no :648   female:358   no :561  
+ 1st Qu.: 6.150   1st Qu.: 9.00   1st Qu.:59.90   yes: 77   male  :367   yes:164  
+ Median : 8.000   Median :13.00   Median :65.40                                   
+ Mean   : 7.863   Mean   :12.33   Mean   :64.84                                   
+ 3rd Qu.: 9.800   3rd Qu.:15.00   3rd Qu.:70.30                                   
+ Max.   :14.675   Max.   :19.00   Max.   :81.80                                   
+> 
+> #r provides summary data that it thinks is useful depending on the type of object, whether it's a number or string
+> 
+> 
+> x <- c(0,1,1,1,0,0,0,0,0)
+> class(x)
+[1] "numeric"
+> summary(x)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  0.0000  0.0000  0.3333  1.0000  1.0000 
+> # we wanted x to represent yes or no fi someone is a smoker like lots of data sets
+> # we can see by default R categorizes it not as a category/factor but rather as numeric
+> # and it gives us summary details that are indicative of numeric analysis
+> # however if we'd like, we can change this manually
+> 
+> 
+> x <- as.factor(x)
+> # store in the object x, x as a factor
+> class(x)
+[1] "factor"
+> summary(x)
+0 1 
+6 3 
+
+
+### Logic Statements (TRUE/FALSE) and cbind and rbind Command in R 
