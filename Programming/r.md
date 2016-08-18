@@ -486,12 +486,12 @@ Setting byrow = FALSE produces a matrix, now set up by a column fashion
 > #can ask for help with a function via help(read.csv) or ?read.csv
 > 
 > 
+
+```R
 > data1 <-read.csv(file.choose(),header=T)
 > #using file.choose() allows you to choose the document via a pop up
 > # instead of having to type the file path
 > #header = T or header = TRUE, tells R that there are headers in the first row
-> 
-> 
 > data1
    LungCap Age Height Smoke Gender Caesarean
 1    6.475   6   62.1    no   male        no
@@ -556,5 +556,5 @@ Setting byrow = FALSE produces a matrix, now set up by a column fashion
 8    7.325  11   70.4    no   male        no
 9    8.875  15   70.5    no   male        no
 10   6.800  11   59.2    no   male        no
-
+```
 
