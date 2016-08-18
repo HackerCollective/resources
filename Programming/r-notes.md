@@ -185,6 +185,9 @@ Setting byrow = FALSE produces a matrix, now set up by a column fashion
 You can save as a csv or a txt
 can ask for help with a function via help(read.csv) or ?read.csv
 
+Download the data set 
+http://www.statslectures.com/index.php/r-stats-datasets
+
 
 
 ```R
