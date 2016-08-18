@@ -481,17 +481,21 @@ Setting byrow = FALSE produces a matrix, now set up by a column fashion
 > #extracting everything in row one
 ```
 
-> ### How to import from excel into r
-> #save as a csv or a txt
-> #can ask for help with a function via help(read.csv) or ?read.csv
-> 
-> 
+### How to import from excel into r
+You can save as a csv or a txt
+can ask for help with a function via help(read.csv) or ?read.csv
+
+
 
 ```R
 > data1 <-read.csv(file.choose(),header=T)
-> #using file.choose() allows you to choose the document via a pop up
-> # instead of having to type the file path
-> #header = T or header = TRUE, tells R that there are headers in the first row
+```
+
+using file.choose() allows you to choose the document via a pop up
+instead of having to type the file path
+header = T or header = TRUE, tells R that there are headers in the first row
+
+```R
 > data1
    LungCap Age Height Smoke Gender Caesarean
 1    6.475   6   62.1    no   male        no
@@ -800,19 +804,22 @@ Error in barplot(percent) : object 'percent' not found
 > boxplot(LungCap[Gender=="female"], LungCap[Gender=="male"])
 ```
 
-> # Stratified Boxplots in R
+### Stratified Boxplots in R
+
+
+Stratified boxplots are useful for examining the relationship between a categorical variable and a numeric variable, within strata or groups defined by a third categorical variable
+
+In the following example we'll examine the relationship between Smoking & Lung Capacity within age groups or Age Strata and make sure you've already loaded the data and attached it
+
+Now we will make an "AgeGroups" Vatiable, this will split the age into sertain sections per our liking
 
 ```R
-> # Stratified boxplots are useful for examining the relationship between a categorical variable and a numeric variable, within strata or groups defined by a third categorical variable
-> 
-> # In the following example we'll examine the relationship between Smoking & Lung Capacity
-> # within age groups or Age Strata
-> 
-> # make sure you've already loaded the data and attached it
-> # Now we will make an "AgeGroups" Vatiable, this will split the age into sertain sections per our liking
 > AgeGroups <- cut(Age, breaks=c(0,13,15,17,25), labels=c("<13", "14/15", "16/17", "18+"))
-> 
-> #Now we will check the first 5 ages, and age groups
+```
+
+Now we will check the first 5 ages, and age groups
+
+```R
 > Age[1:5]
 [1]  6 18 16 14  5
 > AgeGroups[1:5]
@@ -822,31 +829,40 @@ Levels: <13 14/15 16/17 18+
 NULL
 > levels(AgeGroups)
 [1] "<13"   "14/15" "16/17" "18+"  
-> # Puuuuuuuurfeeeeect
-> # We'll elarn more about cut and numric to categorical variables later
-> 
-> 
+```
+
+Puuuuuuuurfeeeeect
+We'll elarn more about cut and numric to categorical variables later
+
+
+```R
 > boxplot(LungCap, ylab="Lung Capacity", main="Boxplot of Lung Cap", las=1)
 > boxplot(LungCap~Smoke, ylab="Lung Capacity", main="LungCap vs Smoking", las=1)
-> # The smokign effect is confounded with the Age effect (we'll talk about counfounded laterrrrrs)
-> 
-> # * On average smokers are older than non smokers, and older children have bigger bodies hence the bigger lung capacities of the smokers
-> # One option we consider is to look at smoking and lung capcity within age strata
-> 
-> 
+```
+
+The smokign effect is confounded with the Age effect (we'll talk about counfounded laterrrrrs)
+* On average smokers are older than non smokers, and older children have bigger bodies hence the bigger lung capacities of the smokers
+One option we consider is to look at smoking and lung capcity within age strata
+
+```R
 > boxplot(LungCap[Age>=18]~Smoke[Age>=18], ylab="Lung Capacity", main="LungCap vs Smoking", las=1)
 > boxplot(LungCap[Age>=18]~Smoke[Age>=18], ylab="Lung Capacity", main="LungCap vs Smoking for 18+", las=1)
-> 
-> # Now we want to visualize the relationship between LungCapacity and SMoking within each of the Age Strate
-> # We'll do this by creating BoxPlots of lung capacity for smokers and for non smokers of different age strata
-> 
+```
+
+Now we want to visualize the relationship between LungCapacity and SMoking within each of the Age Strate
+We'll do this by creating BoxPlots of lung capacity for smokers and for non smokers of different age strata
+
+```R
 > boxplot(LungCap[Age>=18]~Smoke*AgeGroups, ylab="Lung Capacity", main="LungCap vs Smoking by age group", las=1)
 Error in model.frame.default(formula = LungCap[Age >= 18] ~ Smoke * AgeGroups) : 
   variable lengths differ (found for 'Smoke')
 > boxplot(LungCap~Smoke*AgeGroups, ylab="Lung Capacity", main="LungCap vs Smoking by age group", las=1)
-> # oops, litte typo, but what did we just do?
-> # when we multipled Smoke by AgeGroups, we created a box plot for each of the age groups (there are 4) and under both conditions, smoking = yes, and smoking = no, creating 8 different plots
-> # the x-axis values are kind of overlapping but we can fix that with the las command
+```
+
+oops, litte typo, but what did we just do?
+when we multipled Smoke by AgeGroups, we created a box plot for each of the age groups (there are 4) and under both conditions, smoking = yes, and smoking = no, creating 8 different plots the x-axis values are kind of overlapping but we can fix that with the las command
+
+```R
 > boxplot(LungCap~Smoke*AgeGroups, ylab="Lung Capacity", main="LungCap vs Smoking by age group", las=2)
 > boxplot(LungCap~Smoke*AgeGroups, ylab="Lung Capacity", main="LungCap vs Smoking by age group", las=2, col=c(4,2))
 ```
