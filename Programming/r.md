@@ -611,6 +611,7 @@ Error: unexpected symbol in "find dimension"
 [1] "LungCap"   "Age"       "Height"    "Smoke"     "Gender"    "Caesarean"
 ```
 ### Working with variables and Data in R
+```R
 > mean(Age)
 Error in mean(Age) : object 'Age' not found
 > # this is because R does not recognize age as it is part of the object data1
@@ -712,4 +713,143 @@ Error in levels(smoke) : object 'smoke' not found
 > summary(x)
 0 1 
 6 3 
+```
+
+## Bar Charts and Pie Charts in R 
+```R
+> # A BArchart is a visual display of the frequency for each category of a categorical variable or the relative frequency (%) for each category
+> # We can get help on bar charts via the help command and barplot
+> help("barplot")
+> # Thi should pull up a description in the right window
+> 
+> 
+> # The frequency command can be pulled up using the table command
+> table(Gender)
+Gender
+female   male 
+   358    367 
+> count <- table(Gender)
+> count
+Gender
+female   male 
+   358    367 
+> table(Gender)/725
+Gender
+   female      male 
+0.4937931 0.5062069 
+> perent <- table(Gender)/725
+> barplot(count)
+> barplot(percent)
+Error in barplot(percent) : object 'percent' not found
+> percent <- table(Gender)/725
+> rm(perent)
+> barplot(percent)
+> 
+> # we can add information such as the title, and the axis information via the following
+> barplot(percent, main="TITLE", xlab="Gender", ylab="%")
+> 
+> # I however like to rotate the values on the y-axis to be more human readable
+> barplot(percent, main="TITLE", xlab="Gender", ylab="%", las=1)
+> 
+> # To change the names and labels that appear under the bars we can use the names.arg argument
+> barplot(percent, main="TITLE", xlab="Gender", ylab="%", las=1, names.arg=c("Female", "Male"))
+> 
+> 
+> #Finally if you want the bars to appear horizontally, and not vertically, we can add the horiz attribute
+> barplot(percent, main="TITLE", ylab="Gender", xlab="%", las=1, names.arg=c("Female", "Male"), horiz=TRUE)
+> #Note, we must change our x and y label, so we don't get confused 
+> 
+> 
+> ### Pie Charts
+> # We can produce a Pie Chart using the Pie Command
+> pie(count)
+> pie(count, main="TITLE HERE")
+> box()
+> # we used the box command to add a nice box to our pie chart
+```
+
+### Boxplots and Boxplots With Groups in R
+
+```R
+> boxplot(LungCap)
+> 
+> # The blox plot is a visual display of the 5 number summary, and we can get those details easily
+> # min, 1'st quartile, median, 2nd quartile, max
+> 
+> quantile(LungCap, probs=c(0, 0.25, 0.5, 0.75, 1))
+    0%    25%    50%    75%   100% 
+ 0.507  6.150  8.000  9.800 14.675 
+> # this produces the results for data that appears at that probability
+> 
+> #time to pretty it up
+> boxplot(LungCap, main="Boxplot", ylab="Lung Capacity")
+> 
+> # we can now set the limits to make it easier to see and view
+> boxplot(LungCap, main="Boxplot", ylab="Lung Capacity", ylim = c(0,16))
+> 
+> # and again, rotating the values to make it look snazzy
+> boxplot(LungCap, main="Boxplot", ylab="Lung Capacity", ylim = c(0,16), las=1)
+> 
+> 
+> # Now comparing 2 or more box plots on the same scale, going to compare different groups based on their category
+> boxplot(LungCap ~ Gender)
+> boxplot(LungCap ~ Gender, main="Boxplot by Gender")
+> 
+> 
+> # We can do the same thing using the square bracket method
+> boxplot(LungCap[Gender=="female"], LungCap[Gender=="male"])
+```
+
+> # Stratified Boxplots in R
+
+```R
+> # Stratified boxplots are useful for examining the relationship between a categorical variable and a numeric variable, within strata or groups defined by a third categorical variable
+> 
+> # In the following example we'll examine the relationship between Smoking & Lung Capacity
+> # within age groups or Age Strata
+> 
+> # make sure you've already loaded the data and attached it
+> # Now we will make an "AgeGroups" Vatiable, this will split the age into sertain sections per our liking
+> AgeGroups <- cut(Age, breaks=c(0,13,15,17,25), labels=c("<13", "14/15", "16/17", "18+"))
+> 
+> #Now we will check the first 5 ages, and age groups
+> Age[1:5]
+[1]  6 18 16 14  5
+> AgeGroups[1:5]
+[1] <13   18+   16/17 14/15 <13  
+Levels: <13 14/15 16/17 18+
+> levels("AgeGroups")
+NULL
+> levels(AgeGroups)
+[1] "<13"   "14/15" "16/17" "18+"  
+> # Puuuuuuuurfeeeeect
+> # We'll elarn more about cut and numric to categorical variables later
+> 
+> 
+> boxplot(LungCap, ylab="Lung Capacity", main="Boxplot of Lung Cap", las=1)
+> boxplot(LungCap~Smoke, ylab="Lung Capacity", main="LungCap vs Smoking", las=1)
+> # The smokign effect is confounded with the Age effect (we'll talk about counfounded laterrrrrs)
+> 
+> # * On average smokers are older than non smokers, and older children have bigger bodies hence the bigger lung capacities of the smokers
+> # One option we consider is to look at smoking and lung capcity within age strata
+> 
+> 
+> boxplot(LungCap[Age>=18]~Smoke[Age>=18], ylab="Lung Capacity", main="LungCap vs Smoking", las=1)
+> boxplot(LungCap[Age>=18]~Smoke[Age>=18], ylab="Lung Capacity", main="LungCap vs Smoking for 18+", las=1)
+> 
+> # Now we want to visualize the relationship between LungCapacity and SMoking within each of the Age Strate
+> # We'll do this by creating BoxPlots of lung capacity for smokers and for non smokers of different age strata
+> 
+> boxplot(LungCap[Age>=18]~Smoke*AgeGroups, ylab="Lung Capacity", main="LungCap vs Smoking by age group", las=1)
+Error in model.frame.default(formula = LungCap[Age >= 18] ~ Smoke * AgeGroups) : 
+  variable lengths differ (found for 'Smoke')
+> boxplot(LungCap~Smoke*AgeGroups, ylab="Lung Capacity", main="LungCap vs Smoking by age group", las=1)
+> # oops, litte typo, but what did we just do?
+> # when we multipled Smoke by AgeGroups, we created a box plot for each of the age groups (there are 4) and under both conditions, smoking = yes, and smoking = no, creating 8 different plots
+> # the x-axis values are kind of overlapping but we can fix that with the las command
+> boxplot(LungCap~Smoke*AgeGroups, ylab="Lung Capacity", main="LungCap vs Smoking by age group", las=2)
+> boxplot(LungCap~Smoke*AgeGroups, ylab="Lung Capacity", main="LungCap vs Smoking by age group", las=2, col=c(4,2))
+```
+
+
 
