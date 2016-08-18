@@ -392,4 +392,69 @@ Error in seq.default(from = 2, to - 5, by = 0.25) : object 'to' not found
 ```
 You can see that I orginally had an error due to putting t = 5, and not to = 5.
 
+Creating vectors and playing with them
+
+```R
+> x <- 1:5
+> x+10
+[1] 11 12 13 14 15
+> x - 10
+[1] -9 -8 -7 -6 -5
+> x *10
+[1] 10 20 30 40 50
+> x/2
+[1] 0.5 1.0 1.5 2.0 2.5
+> # if two vectors are of the same length, we may add/subtract/mult/div 
+> # corresponding elements
+> y <- c(1,3,5,7,9)
+> x+y
+[1]  2  5  8 11 14
+> x*y
+[1]  1  6 15 28 45
+> x/y
+[1] 1.0000000 0.6666667 0.6000000 0.5714286 0.5555556
+```
+
+Extracting elements in a matrix
+```R
+> y[3]
+[1] 5
+```
+Extracting all elements except specified one in a matrix
+```R
+> y[-3]
+[1] 1 3 7 9
+```
+Different methods to create a matrix
+```R
+> y[1:3]
+[1] 1 3 5
+> y[c(1,5)]
+[1] 1 9
+```
+Extrcting elements only less than 6
+```R
+> y[y<6]
+[1] 1 3 5
+```
+creating a matrix
+```R
+> matrix(c(1,2,3,4,5,6,7,8,9), nrow=3, byrow=TRUE)
+     [,1] [,2] [,3]
+[1,]    1    2    3
+[2,]    4    5    6
+[3,]    7    8    9
+```
+
+Creating a matrix while specifying that these are entered in a row fashion
+Setting byrow = FALSE produces a matrix, now set up by a column fashion
+```R
+> matrix(c(1,2,3,4,5,6,7,8,9), nrow=3, byrow=FALSE)
+     [,1] [,2] [,3]
+[1,]    1    4    7
+[2,]    2    5    8
+[3,]    3    6    9
+> 
+```
+
 
