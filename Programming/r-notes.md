@@ -571,4 +571,150 @@ when we multipled Smoke by AgeGroups, we created a box plot for each of the age 
 ```
 
 
+> # Histograms
+> # A histogram is appropriate for summarizing the distribution of a numeric variable
+> # Let's check that our data is still here
+> head(LungCapData)
+  LungCap Age Height Smoke Gender Caesarean
+1   6.475   6   62.1    no   male        no
+2  10.125  18   74.7   yes female        no
+3   9.550  16   69.7    no female       yes
+4  11.125  14   71.0    no   male        no
+5   4.800   5   56.9    no   male        no
+6   6.225  11   58.7    no female        no
+> 
+> 
+> hist(LungCap)
+> # The default in r is to report fequencies, a bin width and title, but we're gonna change that
+> # We're going to change the y axis to a probability density instead of frequencies
+> hist(LungCap, freq=FALSE)
+> # or we can use 
+> hist(LungCap, prob=T)
+> hist(LungCap, prob=T, ylim=c(0, 0.2))
+> # change the bin width with the breaks command
+> hist(LungCap, prob=T, ylim=c(0, 0.2), breaks=7)
+> # 7 break points will result in 8 bins being produced
+> # We can also specify the break points to be the break points themselves
+> # so our bin can span 0-2, 2-4, 4-6,, etc
+> hist(LungCap, prob=T, ylim=c(0, 0.2), breaks=c(0,2,4,6,8,10,12,14,16))
+> #This can also be done using a sequence command
+> hist(LungCap, prob=T, ylim=c(0, 0.2), breaks=seq(from=0, to=16, by=2)
++ )
+> hist(LungCap, prob=T, ylim=c(0, 0.2), breaks=seq(from=0, to=16, by=2), main="Boxplot of Lung Capacity", xlab="Lung Capacity", las=1)
+> 
+> 
+> # Now we're going to add a density curve over the plot
+> lines(density(LungCap))
+> 
+> # we can also change the color and width of this line
+> lines(density(LungCap), col=2, lwd=3)
+
+
+
+> # Stem and Leaf Plots in R
+> 
+> femaleLungCap <- LungCap[Gender=="female"]
+> 
+> 
+> stem(femaleLungCap)
+
+  The decimal point is at the |
+
+   0 | 5
+   1 | 0135689
+   2 | 0033456777789999
+   3 | 0122457788999999
+   4 | 012333344555556666677777899
+   5 | 0000122222334466666777778999
+   6 | 000111111122222222233345555556666667777777788888999999
+   7 | 000123334444444445555666667778888888999999
+   8 | 000000001111122222333333444444555556666666666777777888888888899
+   9 | 0000000011122223333344455556666777788888999999
+  10 | 000011111222334445555666777778899
+  11 | 00111223556678888
+  12 | 1222479
+  13 | 1
+
+> # smallest lung capacity is 0.5, and the largest is 13.1
+> # we can change the scale so that it splits figures where we'd normally round
+> # so splitting at 1 -> 1.4 and 1.5-> 1.9
+> stem(femaleLungCap, scale=2)
+
+  The decimal point is at the |
+
+   0 | 5
+   1 | 013
+   1 | 5689
+   2 | 00334
+   2 | 56777789999
+   3 | 01224
+   3 | 57788999999
+   4 | 012333344
+   4 | 555556666677777899
+   5 | 00001222223344
+   5 | 66666777778999
+   6 | 00011111112222222223334
+   6 | 5555556666667777777788888999999
+   7 | 00012333444444444
+   7 | 5555666667778888888999999
+   8 | 000000001111122222333333444444
+   8 | 555556666666666777777888888888899
+   9 | 00000000111222233333444
+   9 | 55556666777788888999999
+  10 | 00001111122233444
+  10 | 5555666777778899
+  11 | 00111223
+  11 | 556678888
+  12 | 12224
+  12 | 79
+  13 | 1
+
+
+> # Stacked Bar Charts, Grouped Bar Charts and Mosaic Plots in R
+> # we will graphically examine the relationship between gender and smoking
+> # we need to produce a contingency table to produce this plot
+> table(Smoke, Gender)
+     Gender
+Smoke female male
+  no     314  334
+  yes     44   33
+> Table1 <- table(Smoke, Gender)
+> barplot(Table1)
+> # R's default is to use stacked bar charts, we chan change these to clustered ones!
+> barplot(Table1, besite=T)
+Warning messages:
+1: In plot.window(xlim, ylim, log = log, ...) :
+  "besite" is not a graphical parameter
+2: In axis(if (horiz) 2 else 1, at = at.l, labels = names.arg, lty = axis.lty,  :
+  "besite" is not a graphical parameter
+3: In title(main = main, sub = sub, xlab = xlab, ylab = ylab, ...) :
+  "besite" is not a graphical parameter
+4: In axis(if (horiz) 1 else 2, cex.axis = cex.axis, ...) :
+  "besite" is not a graphical parameter
+> barplot(Table1, beside=T)
+Warning messages:
+1: "besite" is not a graphical parameter 
+2: "besite" is not a graphical parameter 
+3: "besite" is not a graphical parameter 
+4: "besite" is not a graphical parameter 
+5: "besite" is not a graphical parameter 
+6: "besite" is not a graphical parameter 
+7: "besite" is not a graphical parameter 
+8: "besite" is not a graphical parameter 
+> # Adding a legend
+> barplot(Table1, beside=T, legend.text=T)
+> 
+> # beefing up the legend
+> barplot(Table1, beside=T, legend.text=c("Non-Smoke", "Smoker"))
+> barplot(Table1, beside=T, legend.text=c("Non-Smoke", "Smoker"), main="Gender & Smoking", xlab="Gender")
+> barplot(Table1, beside=T, legend.text=c("Non-Smoke", "Smoker"), main="Gender & Smoking", xlab="Gender", las=1)
+> barplot(Table1, beside=T, legend.text=c("Non-Smoke", "Smoker"), main="Gender & Smoking", xlab="Gender", las=1, col=c(2,4))
+> # A mosiac plot is another way to look at the our data breakdown
+> mosiacplot(Table1)
+Error: could not find function "mosiacplot"
+> mosaicplot(Table1)
+
+
+
+
 
