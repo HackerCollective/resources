@@ -24,7 +24,7 @@ Feel free to share this guide! [R Notes ](https://github.com/HackerCollective/re
   3. [Matrices: Creating and graphing two-dimensional data sets](#matrices)
   4. [Summary Statistics: Calculating and plotting some basic statistics: mean, median, and standard deviation](#summaryStat)
   5. [Factors: Creating and plotting categorized data](#factors)
-  6. [Data Frames: Organizing values into data frames, loading frames from files and merging them](#dataFrames)
+  6. [Data Frames: Organizing values into data frames, loading frames from files and merging them](#dataFrames) 
 
 
 # Straight to business
